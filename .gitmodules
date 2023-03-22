@@ -1,0 +1,3 @@
+[submodule "3dvqa/votenet_with_color"]
+	path = 3dvqa/votenet_with_color
+	url = https://github.com/nullkatar/votenet_with_color.git

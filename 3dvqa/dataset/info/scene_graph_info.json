@@ -1,0 +1,6301 @@
+{
+    "theDict": {
+        "1": "wall",
+        "2": "floor",
+        "3": "cabinet",
+        "4": "bed",
+        "5": "chair",
+        "6": "sofa",
+        "7": "table",
+        "8": "door",
+        "9": "window",
+        "10": "bookshelf",
+        "11": "picture",
+        "12": "counter",
+        "13": "blinds",
+        "14": "desk",
+        "15": "shelves",
+        "16": "curtain",
+        "17": "dresser",
+        "18": "pillow",
+        "19": "mirror",
+        "20": "floor mat",
+        "21": "clothes",
+        "22": "ceiling",
+        "23": "books",
+        "24": "refridgerator",
+        "25": "television",
+        "26": "paper",
+        "27": "towel",
+        "28": "shower curtain",
+        "29": "box",
+        "30": "whiteboard",
+        "31": "person",
+        "32": "nightstand",
+        "33": "toilet",
+        "34": "sink",
+        "35": "lamp",
+        "36": "bathtub",
+        "37": "bag",
+        "38": "otherstructure",
+        "39": "otherfurniture",
+        "40": "otherprop"
+    },
+    "category_list": {
+        "1": "wall",
+        "2": "chair",
+        "22": "book",
+        "3": "floor",
+        "5": "door",
+        "1163": "object",
+        "16": "window",
+        "4": "table",
+        "56": "trash can",
+        "13": "pillow",
+        "15": "picture",
+        "41": "ceiling",
+        "26": "box",
+        "161": "doorframe",
+        "19": "monitor",
+        "7": "cabinet",
+        "9": "desk",
+        "8": "shelf",
+        "10": "office chair",
+        "31": "towel",
+        "6": "couch",
+        "14": "sink",
+        "48": "backpack",
+        "28": "lamp",
+        "11": "bed",
+        "18": "bookshelf",
+        "71": "mirror",
+        "21": "curtain",
+        "40": "plant",
+        "52": "whiteboard",
+        "96": "radiator",
+        "29": "kitchen cabinet",
+        "49": "toilet paper",
+        "23": "armchair",
+        "63": "shoe",
+        "24": "coffee table",
+        "17": "toilet",
+        "47": "bag",
+        "32": "clothes",
+        "46": "keyboard",
+        "65": "bottle",
+        "97": "recycling bin",
+        "34": "nightstand",
+        "38": "stool",
+        "33": "tv",
+        "75": "file cabinet",
+        "36": "dresser",
+        "64": "computer tower",
+        "101": "telephone",
+        "130": "cup",
+        "27": "refrigerator",
+        "44": "end table",
+        "131": "jacket",
+        "55": "shower curtain",
+        "42": "bathtub",
+        "59": "microwave",
+        "159": "kitchen counter",
+        "74": "sofa chair",
+        "82": "paper towel dispenser",
+        "1164": "bathroom vanity",
+        "93": "suitcase",
+        "77": "laptop",
+        "67": "ottoman",
+        "128": "shower wall",
+        "50": "printer",
+        "35": "counter",
+        "69": "board",
+        "100": "soap dispenser",
+        "62": "stove",
+        "105": "light",
+        "1165": "closet wall",
+        "165": "mini fridge",
+        "76": "fan",
+        "230": "tissue box",
+        "54": "blanket",
+        "125": "bathroom stall",
+        "72": "copier",
+        "68": "bench",
+        "145": "bar",
+        "157": "soap dish",
+        "1166": "laundry hamper",
+        "132": "storage bin",
+        "1167": "bathroom stall door",
+        "232": "light switch",
+        "134": "coffee maker",
+        "51": "tv stand",
+        "250": "decoration",
+        "1168": "ceiling light",
+        "342": "range hood",
+        "89": "blackboard",
+        "103": "clock",
+        "99": "wardrobe",
+        "95": "rail",
+        "154": "bulletin board",
+        "140": "mat",
+        "1169": "trash bin",
+        "193": "ledge",
+        "116": "seat",
+        "202": "mouse",
+        "73": "basket",
+        "78": "shower",
+        "1170": "dumbbell",
+        "79": "paper",
+        "80": "person",
+        "141": "windowsill",
+        "57": "closet",
+        "102": "bucket",
+        "261": "sign",
+        "118": "speaker",
+        "136": "dishwasher",
+        "98": "container",
+        "1171": "stair rail",
+        "170": "shower curtain rod",
+        "1172": "tube",
+        "1173": "bathroom cabinet",
+        "221": "storage container",
+        "570": "paper bag",
+        "138": "paper towel roll",
+        "168": "ball",
+        "276": "closet door",
+        "106": "laundry basket",
+        "214": "cart",
+        "323": "dish rack",
+        "58": "stairs",
+        "86": "blinds",
+        "399": "purse",
+        "121": "bicycle",
+        "185": "tray",
+        "300": "plunger",
+        "180": "paper cutter",
+        "163": "toilet paper dispenser",
+        "66": "bin",
+        "208": "toilet seat cover dispenser",
+        "112": "guitar",
+        "540": "mailbox",
+        "395": "handicap bar",
+        "166": "fire extinguisher",
+        "122": "ladder",
+        "120": "column",
+        "107": "pipe",
+        "283": "vacuum cleaner",
+        "88": "plate",
+        "90": "piano",
+        "177": "water cooler",
+        "1174": "cd case",
+        "562": "bowl",
+        "1175": "closet rod",
+        "1156": "bathroom counter",
+        "84": "oven",
+        "104": "stand",
+        "229": "scale",
+        "70": "washing machine",
+        "325": "broom",
+        "169": "hat",
+        "331": "guitar case",
+        "87": "rack",
+        "488": "water pitcher",
+        "776": "laundry detergent",
+        "370": "hair dryer",
+        "191": "pillar",
+        "748": "divider",
+        "242": "power outlet",
+        "45": "dining table",
+        "417": "shower floor",
+        "188": "shower door",
+        "1176": "coffee kettle",
+        "1177": "wardrobe ",
+        "1178": "structure",
+        "110": "clothes dryer",
+        "148": "toaster",
+        "155": "ironing board",
+        "572": "alarm clock",
+        "1179": "shower head",
+        "392": "water bottle",
+        "1180": "keyboard piano",
+        "609": "projector screen",
+        "1181": "case of water bottles",
+        "195": "toaster oven",
+        "581": "music stand",
+        "1182": "coat rack",
+        "1183": "storage organizer",
+        "139": "machine",
+        "1184": "folded chair",
+        "1185": "fire alarm",
+        "156": "fireplace",
+        "408": "vent",
+        "213": "furniture",
+        "1186": "power strip",
+        "1187": "calendar",
+        "1188": "poster",
+        "115": "toilet paper holder",
+        "1189": "potted plant",
+        "304": "stuffed animal",
+        "1190": "luggage",
+        "312": "headphones",
+        "233": "crate",
+        "286": "candle",
+        "264": "projector",
+        "1191": "mattress",
+        "356": "dustpan",
+        "25": "drawer",
+        "750": "rod",
+        "269": "globe",
+        "307": "footrest",
+        "410": "piano bench",
+        "730": "breakfast bar",
+        "216": "step stool",
+        "1192": "hand rail",
+        "119": "vending machine",
+        "682": "ceiling fan",
+        "434": "swiffer",
+        "126": "foosball table",
+        "919": "jar",
+        "85": "footstool",
+        "1193": "folded table",
+        "108": "round table",
+        "135": "hamper",
+        "1194": "poster tube",
+        "432": "case",
+        "53": "carpet",
+        "1195": "thermostat",
+        "111": "coat",
+        "305": "water fountain",
+        "1125": "smoke detector",
+        "1196": "flip flops",
+        "1197": "cloth",
+        "1198": "banner",
+        "1199": "clothes hanger",
+        "1200": "whiteboard eraser",
+        "378": "iron",
+        "591": "instrument case",
+        "92": "soap",
+        "1098": "block",
+        "291": "wall hanging",
+        "1063": "kitchen island",
+        "1135": "toothbrush",
+        "189": "shirt",
+        "245": "cutting board",
+        "194": "vase",
+        "1201": "shower control valve",
+        "386": "exercise machine",
+        "1202": "compost bin",
+        "857": "shorts",
+        "452": "tire",
+        "1203": "teddy bear",
+        "346": "bathrobe",
+        "152": "handrail",
+        "83": "faucet",
+        "1204": "pantry wall",
+        "726": "thermos",
+        "61": "rug",
+        "39": "cushion",
+        "1117": "tripod",
+        "1205": "tupperware",
+        "415": "shoe rack",
+        "1206": "beer bottle",
+        "153": "treadmill",
+        "1207": "salt",
+        "129": "chest",
+        "220": "dispenser",
+        "1208": "mirror door",
+        "231": "remote",
+        "1209": "folded ladder",
+        "1210": "carton",
+        "117": "step",
+        "822": "drying rack",
+        "238": "slippers",
+        "143": "pool table",
+        "1211": "soda stream",
+        "228": "toilet brush",
+        "494": "loft bed",
+        "226": "cooking pot",
+        "91": "heater",
+        "1072": "messenger bag",
+        "435": "stapler",
+        "345": "scanner",
+        "893": "elliptical machine",
+        "621": "kettle",
+        "1212": "metronome",
+        "297": "dumbell",
+        "1213": "music book",
+        "1214": "rice cooker",
+        "1215": "dart board",
+        "529": "sewing machine",
+        "1216": "grab bar",
+        "1217": "flowerpot",
+        "1218": "painting",
+        "1219": "railing",
+        "1220": "stair",
+        "525": "toolbox",
+        "204": "nerf gun",
+        "693": "binder",
+        "179": "desk lamp",
+        "1221": "quadcopter",
+        "1222": "pitcher",
+        "1223": "hanging",
+        "1224": "mail",
+        "1225": "closet ceiling",
+        "1226": "hoverboard",
+        "1227": "beanbag chair",
+        "571": "water heater",
+        "1228": "spray bottle",
+        "556": "rope",
+        "280": "plastic container",
+        "1229": "soap bottle",
+        "1230": "ikea bag",
+        "1231": "sleeping bag",
+        "1232": "duffel bag",
+        "746": "frying pan",
+        "1233": "oven mitt",
+        "1234": "pot",
+        "144": "hand dryer",
+        "282": "dollhouse",
+        "167": "shampoo bottle",
+        "1235": "hair brush",
+        "1236": "tennis racket",
+        "1237": "display case",
+        "234": "ping pong table",
+        "563": "boiler",
+        "1238": "bag of coffee beans",
+        "1239": "banana",
+        "1240": "carseat",
+        "366": "helmet",
+        "816": "umbrella",
+        "1241": "coffee box",
+        "719": "envelope",
+        "284": "wet floor sign",
+        "1242": "clothing rack",
+        "247": "controller",
+        "1243": "bathroom wall",
+        "1244": "podium",
+        "1245": "storage box",
+        "1246": "dolly",
+        "1247": "shampoo",
+        "592": "paper tray",
+        "385": "cabinet door",
+        "1248": "changing station",
+        "1249": "poster printer",
+        "133": "screen",
+        "301": "soap bar",
+        "1250": "crutches",
+        "379": "studio light",
+        "1251": "toilet flush button",
+        "450": "trunk",
+        "1252": "grocery bag",
+        "316": "plastic bin",
+        "1253": "pizza box",
+        "1254": "legs",
+        "461": "car",
+        "1255": "shaving cream",
+        "1256": "luggage stand",
+        "599": "shredder",
+        "281": "statue",
+        "1257": "urinal",
+        "1258": "hose",
+        "1259": "bike pump",
+        "319": "coatrack",
+        "1260": "bear",
+        "1261": "humidifier",
+        "546": "toothpaste",
+        "1262": "mouthwash bottle",
+        "1263": "poster cutter",
+        "1264": "golf bag",
+        "1265": "food container",
+        "1266": "camera",
+        "1267": "yoga mat",
+        "1268": "card",
+        "1269": "mug",
+        "689": "cardboard",
+        "1270": "rack stand",
+        "1271": "boxes of paper",
+        "1272": "flag",
+        "354": "futon",
+        "339": "magazine",
+        "1009": "exit sign",
+        "1273": "rolled poster",
+        "1274": "wheel",
+        "1275": "blackboard eraser",
+        "361": "organizer",
+        "1276": "doll",
+        "326": "book rack",
+        "1277": "laundry bag",
+        "1278": "sponge",
+        "1279": "lotion bottle",
+        "212": "can",
+        "1280": "lunch box",
+        "1281": "food display",
+        "794": "storage shelf",
+        "1282": "sliding wood door",
+        "955": "pants",
+        "387": "wood",
+        "523": "washcloth",
+        "389": "workbench",
+        "1283": "organizer shelf",
+        "146": "frame",
+        "372": "exercise ball",
+        "289": "easel",
+        "440": "garbage bag",
+        "321": "roomba",
+        "976": "garage door",
+        "1284": "bike lock",
+        "1285": "briefcase",
+        "357": "hand towel",
+        "1286": "bath product",
+        "1287": "star",
+        "365": "map",
+        "1288": "coffee bean bag",
+        "81": "headboard",
+        "1289": "ipad",
+        "1290": "display rack",
+        "948": "traffic cone",
+        "174": "toiletry",
+        "1028": "canopy",
+        "1291": "massage chair",
+        "1292": "paper organizer",
+        "1005": "barricade",
+        "235": "platform",
+        "1293": "cap",
+        "1294": "dumbbell plates",
+        "1295": "elevator",
+        "1296": "cooking pan",
+        "1297": "trash bag",
+        "1298": "santa",
+        "1299": "jewelry box",
+        "1300": "boat",
+        "1301": "sock",
+        "1051": "kinect",
+        "566": "crib",
+        "1302": "plastic storage bin",
+        "1062": "cooler",
+        "1303": "kitchen apron",
+        "1304": "dishwashing soap bottle",
+        "1305": "xbox controller",
+        "1306": "banana holder",
+        "298": "ping pong paddle",
+        "1307": "airplane",
+        "1308": "conditioner bottle",
+        "1309": "tea kettle",
+        "43": "bedframe",
+        "1310": "wood beam",
+        "593": "toilet paper package",
+        "1311": "wall mounted coat rack",
+        "1312": "film light",
+        "749": "ceiling lamp",
+        "623": "chain",
+        "1313": "sofa",
+        "265": "sweater",
+        "1314": "kitchen mixer",
+        "1315": "water softener",
+        "448": "banister",
+        "257": "trolley",
+        "1316": "pantry shelf",
+        "786": "sofa bed",
+        "801": "loofa",
+        "972": "shower faucet handle",
+        "1317": "toy piano",
+        "1318": "fish",
+        "657": "cat litter box",
+        "561": "electric panel",
+        "513": "curtain rod",
+        "411": "bunk bed",
+        "1122": "chandelier",
+        "922": "tape",
+        "518": "alarm",
+        "814": "fire hose",
+        "1319": "toy dinosaur",
+        "1320": "cone",
+        "649": "glass door",
+        "607": "hatrack",
+        "819": "subwoofer",
+        "1321": "fire sprinkler",
+        "1322": "trash cabinet",
+        "227": "photo",
+        "817": "barrier",
+        "712": "beachball",
+        "1323": "folded boxes",
+        "1324": "contact lens solution bottle",
+        "673": "covered box",
+        "459": "folder",
+        "643": "mail tray",
+        "765": "magazine rack",
+        "1008": "sticker",
+        "225": "lotion",
+        "1083": "buddha",
+        "813": "file organizer",
+        "1145": "night lamp",
+        "796": "fuse box",
+        "1325": "knife block",
+        "363": "furnace",
+        "1326": "hand sanitzer dispenser",
+        "997": "teapot",
+        "1327": "pen holder",
+        "1328": "tray rack",
+        "1329": "wig",
+        "182": "switch",
+        "1330": "night light",
+        "1331": "notepad",
+        "1332": "mail bin",
+        "1333": "elevator button",
+        "939": "gaming wheel",
+        "1334": "drum set",
+        "480": "cosmetic bag",
+        "907": "coffee mug",
+        "1335": "closet shelf",
+        "1336": "baby mobile",
+        "829": "diaper bin",
+        "947": "door wall",
+        "1116": "stepstool",
+        "733": "dress rack",
+        "123": "cover",
+        "506": "shopping bag",
+        "569": "sliding door",
+        "1337": "exercise bike",
+        "1338": "recliner chair",
+        "1339": "soda can",
+        "1340": "stovetop",
+        "851": "stepladder",
+        "142": "tap",
+        "436": "cable",
+        "1341": "baby changing station",
+        "1342": "costume",
+        "885": "rocking chair",
+        "815": "media center",
+        "401": "towel rack",
+        "1343": "medal",
+        "1344": "telescope",
+        "1345": "closet doorframe",
+        "160": "glass",
+        "1126": "baseball cap",
+        "1346": "battery disposal jar",
+        "332": "mop",
+        "397": "tank",
+        "551": "centerpiece",
+        "1347": "closet floor",
+        "1348": "dryer sheets",
+        "803": "bycicle",
+        "484": "flower stand",
+        "1349": "air mattress",
+        "1350": "clip",
+        "222": "side table",
+        "1351": "display",
+        "1352": "postcard",
+        "828": "display sign",
+        "1353": "paper towel",
+        "612": "boot",
+        "1354": "tennis racket bag",
+        "1355": "air hockey table",
+        "1356": "food bag",
+        "1357": "starbucks cup"
+    },
+    "height_thresholds": {
+        "floor": {
+            "upperbound": 0.4639953188205029,
+            "lowerbound": 0.11327583288948345
+        },
+        "wall": {
+            "upperbound": 2.376661747972339,
+            "lowerbound": 1.0899856940674382
+        },
+        "0": {
+            "upperbound": 2.7734970123911853,
+            "lowerbound": 1.5072265454871734
+        },
+        "table": {
+            "upperbound": 0.946794599737378,
+            "lowerbound": 0.41967131402951396
+        },
+        "couch": {
+            "upperbound": 0.9737372235209893,
+            "lowerbound": 0.6891982563924306
+        },
+        "chair": {
+            "upperbound": 0.9202524080268772,
+            "lowerbound": 0.42159528536798163
+        },
+        "object": {
+            "upperbound": 0.4980884286110733,
+            "lowerbound": 0.04112720178892684
+        },
+        "tv": {
+            "upperbound": 0.8192875049430852,
+            "lowerbound": 0.47514869918062597
+        },
+        "wardrobe": {
+            "upperbound": 2.2752478464198047,
+            "lowerbound": 1.6591934535801955
+        },
+        "door": {
+            "upperbound": 2.1349329320908286,
+            "lowerbound": 1.3021389386943567
+        },
+        "ceiling": {
+            "upperbound": 0.43137978973894187,
+            "lowerbound": -0.025811859197403392
+        },
+        "bed": {
+            "upperbound": 1.520407684958642,
+            "lowerbound": 0.8469113825413583
+        },
+        "dresser": {
+            "upperbound": 1.2397669334733414,
+            "lowerbound": 0.712315995812373
+        },
+        "desk": {
+            "upperbound": 1.1493296607133883,
+            "lowerbound": 0.611061256098206
+        },
+        "shelf": {
+            "upperbound": 1.6499925322818867,
+            "lowerbound": 0.6297415272386612
+        },
+        "recycling bin": {
+            "upperbound": 0.6564121527898898,
+            "lowerbound": 0.2978143257207484
+        },
+        "radiator": {
+            "upperbound": 0.7665343156762666,
+            "lowerbound": 0.38245714118087626
+        },
+        "window": {
+            "upperbound": 1.6523881013050574,
+            "lowerbound": 0.608445865373514
+        },
+        "trash can": {
+            "upperbound": 0.7735509963814202,
+            "lowerbound": 0.26056383694920865
+        },
+        "armchair": {
+            "upperbound": 0.928377018419633,
+            "lowerbound": 0.6766420618524761
+        },
+        "sofa chair": {
+            "upperbound": 0.8810462594422052,
+            "lowerbound": 0.7434773468735844
+        },
+        "coffee table": {
+            "upperbound": 0.5753697582755009,
+            "lowerbound": 0.3208488618984122
+        },
+        "end table": {
+            "upperbound": 0.6951455862982462,
+            "lowerbound": 0.3104981770888505
+        },
+        "picture": {
+            "upperbound": 0.8786713459858857,
+            "lowerbound": 0.24624321798942295
+        },
+        "seat": {
+            "upperbound": 0.7998292558378138,
+            "lowerbound": 0.40077116416218617
+        },
+        "whiteboard": {
+            "upperbound": 1.3814830841766759,
+            "lowerbound": 0.6786866272172631
+        },
+        "cabinet": {
+            "upperbound": 1.6359715825709535,
+            "lowerbound": 0.569164297376415
+        },
+        "doorframe": {
+            "upperbound": 2.1541917197269913,
+            "lowerbound": 1.3279314812141851
+        },
+        "curtain": {
+            "upperbound": 2.1882735382541822,
+            "lowerbound": 1.1542644903759545
+        },
+        "lamp": {
+            "upperbound": 0.8948388920513257,
+            "lowerbound": 0.1859357795821821
+        },
+        "fireplace": {
+            "upperbound": 1.5391045293856056,
+            "lowerbound": 0.8892688820429656
+        },
+        "backpack": {
+            "upperbound": 0.486708102157972,
+            "lowerbound": 0.27503258457569635
+        },
+        "pillow": {
+            "upperbound": 0.39773534717556885,
+            "lowerbound": 0.18129794517394576
+        },
+        "person": {
+            "upperbound": 1.2792173287518278,
+            "lowerbound": 0.5606399722005537
+        },
+        "shoe": {
+            "upperbound": 0.15305012994128261,
+            "lowerbound": 0.0678109806827174
+        },
+        "nightstand": {
+            "upperbound": 0.7778696465969923,
+            "lowerbound": 0.5323312174890291
+        },
+        "furniture": {
+            "upperbound": 1.1220549186777171,
+            "lowerbound": 0.5477996146556161
+        },
+        "office chair": {
+            "upperbound": 1.0366407991986522,
+            "lowerbound": 0.6428984729859631
+        },
+        "monitor": {
+            "upperbound": 0.5396916095578815,
+            "lowerbound": 0.3368652444421185
+        },
+        "keyboard": {
+            "upperbound": 0.06595137805685802,
+            "lowerbound": 0.025788343854646407
+        },
+        "mirror": {
+            "upperbound": 1.1583566847271825,
+            "lowerbound": 0.33692090093948396
+        },
+        "bathroom cabinet": {
+            "upperbound": 1.0196563740177969,
+            "lowerbound": 0.7063924989822034
+        },
+        "sink": {
+            "upperbound": 0.49111001602879395,
+            "lowerbound": 0.13243087708748508
+        },
+        "toilet": {
+            "upperbound": 0.8590125453156747,
+            "lowerbound": 0.5980051954250658
+        },
+        "toilet paper": {
+            "upperbound": 0.2503693477424568,
+            "lowerbound": 0.0825753575690185
+        },
+        "bathtub": {
+            "upperbound": 0.6478151442157541,
+            "lowerbound": 0.37154195474976304
+        },
+        "shower wall": {
+            "upperbound": 2.3088618362516735,
+            "lowerbound": 1.336563230176898
+        },
+        "shower curtain rod": {
+            "upperbound": 0.11132635351882132,
+            "lowerbound": 0.025762263370067554
+        },
+        "shower curtain": {
+            "upperbound": 2.0646205186378923,
+            "lowerbound": 1.3845361480287743
+        },
+        "towel": {
+            "upperbound": 0.757719074115742,
+            "lowerbound": 0.10377278273627583
+        },
+        "telephone": {
+            "upperbound": 0.30075556815514126,
+            "lowerbound": 0.06257272173057304
+        },
+        "stove": {
+            "upperbound": 1.2680805164000954,
+            "lowerbound": 0.94194358924093
+        },
+        "kitchen cabinet": {
+            "upperbound": 1.1700814295391304,
+            "lowerbound": 0.6071476731474368
+        },
+        "kitchen counter": {
+            "upperbound": 0.3440681438127699,
+            "lowerbound": 0.16766341169492233
+        },
+        "refrigerator": {
+            "upperbound": 1.8296893749132643,
+            "lowerbound": 1.435875358142291
+        },
+        "range hood": {
+            "upperbound": 0.45274010712651735,
+            "lowerbound": 0.0711715185877684
+        },
+        "book": {
+            "upperbound": 0.4333407735087202,
+            "lowerbound": 0.1748659000992146
+        },
+        "storage bin": {
+            "upperbound": 0.4633183019120837,
+            "lowerbound": 0.22118844839094673
+        },
+        "light": {
+            "upperbound": 0.5854737691258523,
+            "lowerbound": 0.04053909024000146
+        },
+        "sewing machine": {
+            "upperbound": 0.4510978,
+            "lowerbound": 0.2198968
+        },
+        "board": {
+            "upperbound": 1.6020917725679313,
+            "lowerbound": 0.8129622492502506
+        },
+        "box": {
+            "upperbound": 0.5694526360112511,
+            "lowerbound": 0.16786431561858325
+        },
+        "clothes": {
+            "upperbound": 1.020472655306133,
+            "lowerbound": 0.19515752174092588
+        },
+        "ironing board": {
+            "upperbound": 1.4671633839601945,
+            "lowerbound": 1.115148158896948
+        },
+        "shorts": {
+            "upperbound": 0.43135905,
+            "lowerbound": 0.3517024
+        },
+        "shirt": {
+            "upperbound": 0.9280097958127583,
+            "lowerbound": 0.6838360108539082
+        },
+        "jacket": {
+            "upperbound": 0.6315712003834701,
+            "lowerbound": 0.05429031999388839
+        },
+        "folded ladder": {
+            "upperbound": 1.6028650999999998,
+            "lowerbound": 1.2629861
+        },
+        "coat rack": {
+            "upperbound": 1.921738842231123,
+            "lowerbound": 0.8363556911022102
+        },
+        "bathroom vanity": {
+            "upperbound": 1.001175046962265,
+            "lowerbound": 0.6013172906648536
+        },
+        "mat": {
+            "upperbound": 0.3213791069875084,
+            "lowerbound": -0.013596555141354522
+        },
+        "bottle": {
+            "upperbound": 0.2923118297493592,
+            "lowerbound": 0.18115601048593502
+        },
+        "stool": {
+            "upperbound": 0.6715995670310634,
+            "lowerbound": 0.3398286597057786
+        },
+        "blinds": {
+            "upperbound": 1.5456231171817152,
+            "lowerbound": 1.0421254828182847
+        },
+        "mattress": {
+            "upperbound": 1.4950407179961918,
+            "lowerbound": 0.5583916940038085
+        },
+        "dollhouse": {
+            "upperbound": 1.1771451,
+            "lowerbound": 1.1771451
+        },
+        "rope": {
+            "upperbound": 0.3753793,
+            "lowerbound": 0.090432554
+        },
+        "closet door": {
+            "upperbound": 2.0865421435032183,
+            "lowerbound": 1.3189084752467815
+        },
+        "tissue box": {
+            "upperbound": 0.25223459440573515,
+            "lowerbound": 0.13451591944041874
+        },
+        "bookshelf": {
+            "upperbound": 2.246075158114593,
+            "lowerbound": 1.03518510429047
+        },
+        "piano": {
+            "upperbound": 1.3396992132727543,
+            "lowerbound": 0.9408881356161347
+        },
+        "blanket": {
+            "upperbound": 0.7931720183544594,
+            "lowerbound": 0.13507828004554046
+        },
+        "bar": {
+            "upperbound": 0.4886497516181866,
+            "lowerbound": 0.029353647448480125
+        },
+        "faucet": {
+            "upperbound": 0.5474645363187718,
+            "lowerbound": 0.18165054128122832
+        },
+        "soap dish": {
+            "upperbound": 0.16839082672945202,
+            "lowerbound": 0.054951364856754836
+        },
+        "paper towel dispenser": {
+            "upperbound": 0.4646197333479331,
+            "lowerbound": 0.31990052173978617
+        },
+        "footrest": {
+            "upperbound": 0.5357214324035978,
+            "lowerbound": 0.27990226759640224
+        },
+        "cloth": {
+            "upperbound": 1.3455471843266038,
+            "lowerbound": 0.08876293567339633
+        },
+        "computer tower": {
+            "upperbound": 0.5520561899077131,
+            "lowerbound": 0.3680455109459454
+        },
+        "laptop": {
+            "upperbound": 0.2872253104777192,
+            "lowerbound": 0.158287757727409
+        },
+        "water bottle": {
+            "upperbound": 0.36061272429587815,
+            "lowerbound": 0.15907034713269336
+        },
+        "storage container": {
+            "upperbound": 0.44782608359566856,
+            "lowerbound": 0.23738928140433146
+        },
+        "stand": {
+            "upperbound": 1.1334945983769997,
+            "lowerbound": 0.5465083766230001
+        },
+        "tripod": {
+            "upperbound": 1.9900104616217205,
+            "lowerbound": 1.1174266383782798
+        },
+        "power outlet": {
+            "upperbound": 0.2394487497963243,
+            "lowerbound": 0.11283320474913021
+        },
+        "tv stand": {
+            "upperbound": 0.9043249373077411,
+            "lowerbound": 0.48158147747486746
+        },
+        "mini fridge": {
+            "upperbound": 0.9005087194725307,
+            "lowerbound": 0.6791816059820148
+        },
+        "suitcase": {
+            "upperbound": 0.5702272272072662,
+            "lowerbound": 0.22541833356196458
+        },
+        "clock": {
+            "upperbound": 0.4306799624023507,
+            "lowerbound": 0.20549798676431602
+        },
+        "blackboard": {
+            "upperbound": 1.5285854684413414,
+            "lowerbound": 0.7971848692509664
+        },
+        "sign": {
+            "upperbound": 0.7456179933205906,
+            "lowerbound": 0.14525851855440924
+        },
+        "soap dispenser": {
+            "upperbound": 0.3316569301854546,
+            "lowerbound": 0.1988222411781817
+        },
+        "file cabinet": {
+            "upperbound": 1.0082365769250219,
+            "lowerbound": 0.4139075212567962
+        },
+        "paper": {
+            "upperbound": 0.35934184336203606,
+            "lowerbound": 0.009876652637963945
+        },
+        "boiler": {
+            "upperbound": 1.5208783,
+            "lowerbound": 1.215075
+        },
+        "car": {
+            "upperbound": 1.5061569000000001,
+            "lowerbound": 1.3070605
+        },
+        "soap": {
+            "upperbound": 0.5441945928937136,
+            "lowerbound": 0.014361055906286335
+        },
+        "container": {
+            "upperbound": 0.472025901797049,
+            "lowerbound": 0.21645600950729876
+        },
+        "bag": {
+            "upperbound": 0.4897378792303664,
+            "lowerbound": 0.2036488286127709
+        },
+        "garage door": {
+            "upperbound": 2.1741755,
+            "lowerbound": 0.6135555500000001
+        },
+        "case": {
+            "upperbound": 0.3431987230890624,
+            "lowerbound": 0.24599528091093756
+        },
+        "ceiling light": {
+            "upperbound": 0.2586184671272858,
+            "lowerbound": 0.0230290563012856
+        },
+        "bicycle": {
+            "upperbound": 1.1157511332693772,
+            "lowerbound": 0.6665159356195116
+        },
+        "plastic container": {
+            "upperbound": 0.7736792000000001,
+            "lowerbound": 0.7149337
+        },
+        "shoe rack": {
+            "upperbound": 0.6689344638163529,
+            "lowerbound": 0.45014473618364714
+        },
+        "ball": {
+            "upperbound": 0.4691328213903723,
+            "lowerbound": 0.15641956176752242
+        },
+        "tank": {
+            "upperbound": 0.684785,
+            "lowerbound": 0.684785
+        },
+        "helmet": {
+            "upperbound": 0.1880990895258031,
+            "lowerbound": 0.17403489047419693
+        },
+        "pipe": {
+            "upperbound": 1.7171275248255757,
+            "lowerbound": -0.002195855936686808
+        },
+        "light switch": {
+            "upperbound": 0.2017412408950227,
+            "lowerbound": 0.1062973733357465
+        },
+        "round table": {
+            "upperbound": 0.8641400015801051,
+            "lowerbound": 0.7040171850865615
+        },
+        "bulletin board": {
+            "upperbound": 1.3087728560465863,
+            "lowerbound": 0.6978835162611059
+        },
+        "pillar": {
+            "upperbound": 2.1660783676003703,
+            "lowerbound": 1.0388625203996298
+        },
+        "magazine": {
+            "upperbound": 1.9871509,
+            "lowerbound": 0.10219734999999996
+        },
+        "projector screen": {
+            "upperbound": 1.6894588294300015,
+            "lowerbound": 0.6531471439033318
+        },
+        "copier": {
+            "upperbound": 1.311705045977912,
+            "lowerbound": 0.9658713065935163
+        },
+        "counter": {
+            "upperbound": 0.41812957788640226,
+            "lowerbound": 0.11782249138282855
+        },
+        "paper cutter": {
+            "upperbound": 0.1488208664468074,
+            "lowerbound": 0.08338360955319257
+        },
+        "clothes dryer": {
+            "upperbound": 1.3808036850134957,
+            "lowerbound": 0.8200585349865046
+        },
+        "washing machine": {
+            "upperbound": 1.2637138401530066,
+            "lowerbound": 1.0035696819522564
+        },
+        "shower door": {
+            "upperbound": 1.4501216500808853,
+            "lowerbound": 0.9038853610302254
+        },
+        "shower": {
+            "upperbound": 2.209381386931959,
+            "lowerbound": 1.5575183908458183
+        },
+        "printer": {
+            "upperbound": 0.5562298139794672,
+            "lowerbound": 0.29162283685386614
+        },
+        "dish rack": {
+            "upperbound": 0.42259778764022765,
+            "lowerbound": 0.11416594764548665
+        },
+        "cup": {
+            "upperbound": 0.186666078341368,
+            "lowerbound": 0.057842386946303184
+        },
+        "coffee maker": {
+            "upperbound": 0.5819489727102612,
+            "lowerbound": 0.2763835797897388
+        },
+        "paper towel roll": {
+            "upperbound": 0.30458066596127853,
+            "lowerbound": 0.16908127653872154
+        },
+        "microwave": {
+            "upperbound": 0.41006778869122434,
+            "lowerbound": 0.2776742055023241
+        },
+        "ottoman": {
+            "upperbound": 0.5124016579426723,
+            "lowerbound": 0.40017830859578923
+        },
+        "lunch box": {
+            "upperbound": 0.27655748,
+            "lowerbound": 0.27655748
+        },
+        "trash bin": {
+            "upperbound": 0.9547972531915774,
+            "lowerbound": 0.2280764922629681
+        },
+        "ledge": {
+            "upperbound": 0.2778756160796021,
+            "lowerbound": 0.07999364943763934
+        },
+        "oven": {
+            "upperbound": 0.868023861741946,
+            "lowerbound": 0.4186333968294826
+        },
+        "closet wall": {
+            "upperbound": 2.5173359131781083,
+            "lowerbound": 1.4111155632924801
+        },
+        "rod": {
+            "upperbound": 0.07293013124171906,
+            "lowerbound": 0.027407570091614295
+        },
+        "toothbrush": {
+            "upperbound": 0.23843027403468695,
+            "lowerbound": 0.18745180096531308
+        },
+        "compost bin": {
+            "upperbound": 0.3709716710846079,
+            "lowerbound": 0.34270544891539206
+        },
+        "closet rod": {
+            "upperbound": 0.28709551193465516,
+            "lowerbound": 0.1221486080653449
+        },
+        "hair dryer": {
+            "upperbound": 0.4002974617929185,
+            "lowerbound": 0.004262439635652926
+        },
+        "plate": {
+            "upperbound": 0.09262499238050619,
+            "lowerbound": 0.02545420133377954
+        },
+        "fan": {
+            "upperbound": 0.916064733950342,
+            "lowerbound": 0.32438180071632466
+        },
+        "tube": {
+            "upperbound": 1.145438169661558,
+            "lowerbound": 0.19505906513844162
+        },
+        "decoration": {
+            "upperbound": 1.2427098677477928,
+            "lowerbound": 0.3004788733048387
+        },
+        "rail": {
+            "upperbound": 0.5834988927729715,
+            "lowerbound": -0.046184929468623626
+        },
+        "folded chair": {
+            "upperbound": 0.9241631558888048,
+            "lowerbound": 0.566987412682624
+        },
+        "projector": {
+            "upperbound": 0.5958358481020383,
+            "lowerbound": 0.12866349439796185
+        },
+        "thermostat": {
+            "upperbound": 0.1603121703761623,
+            "lowerbound": 0.1209336546238377
+        },
+        "plunger": {
+            "upperbound": 0.5319448458853169,
+            "lowerbound": 0.3510531741146832
+        },
+        "plant": {
+            "upperbound": 1.3579671028997695,
+            "lowerbound": 0.08145255064861745
+        },
+        "banner": {
+            "upperbound": 1.919299497063863,
+            "lowerbound": 0.7644590696028035
+        },
+        "bin": {
+            "upperbound": 0.55824141587579,
+            "lowerbound": 0.26734849412420997
+        },
+        "toaster oven": {
+            "upperbound": 0.40106586207333417,
+            "lowerbound": 0.20014912459333242
+        },
+        "tray": {
+            "upperbound": 0.23994710962006024,
+            "lowerbound": 0.04967981899532439
+        },
+        "case of water bottles": {
+            "upperbound": 0.27009955770212346,
+            "lowerbound": 0.20722728229787654
+        },
+        "kitchen island": {
+            "upperbound": 1.0713788648328573,
+            "lowerbound": 0.9386699111671428
+        },
+        "bathrobe": {
+            "upperbound": 1.5118403167707117,
+            "lowerbound": 1.198623749895955
+        },
+        "towel rack": {
+            "upperbound": 0.2259835,
+            "lowerbound": 0.2259835
+        },
+        "clothes hanger": {
+            "upperbound": 0.20286541552414786,
+            "lowerbound": 0.13808903447585216
+        },
+        "stair rail": {
+            "upperbound": 2.5763089578426284,
+            "lowerbound": 0.3724755394907049
+        },
+        "smoke detector": {
+            "upperbound": 0.18327008175518245,
+            "lowerbound": 0.060260031578150894
+        },
+        "mouse": {
+            "upperbound": 0.2166223891798265,
+            "lowerbound": -0.07251551078852218
+        },
+        "guitar": {
+            "upperbound": 1.033330804529076,
+            "lowerbound": 0.5221861243598127
+        },
+        "guitar case": {
+            "upperbound": 1.040146976111944,
+            "lowerbound": 0.8065908398880559
+        },
+        "dolly": {
+            "upperbound": 1.2884086067517084,
+            "lowerbound": 1.2475950599149588
+        },
+        "fire alarm": {
+            "upperbound": 0.2188805971016279,
+            "lowerbound": 0.10829406914837211
+        },
+        "elevator": {
+            "upperbound": 1.3682559,
+            "lowerbound": 1.2571787
+        },
+        "stairs": {
+            "upperbound": 2.15763677109711,
+            "lowerbound": 0.50985796890289
+        },
+        "fire extinguisher": {
+            "upperbound": 0.6073005231426554,
+            "lowerbound": 0.37365351019067783
+        },
+        "basket": {
+            "upperbound": 0.3533470305116132,
+            "lowerbound": 0.20339054871915607
+        },
+        "bucket": {
+            "upperbound": 0.40907048290399084,
+            "lowerbound": 0.22830165918296574
+        },
+        "speaker": {
+            "upperbound": 0.6996315760011482,
+            "lowerbound": 0.22077096399885177
+        },
+        "crate": {
+            "upperbound": 0.378196144659477,
+            "lowerbound": 0.28607341534052294
+        },
+        "rack": {
+            "upperbound": 1.4733283015669465,
+            "lowerbound": 0.39161321129019655
+        },
+        "ceiling fan": {
+            "upperbound": 0.32368827082183854,
+            "lowerbound": 0.24337375417816148
+        },
+        "laundry basket": {
+            "upperbound": 0.5243335098903704,
+            "lowerbound": 0.3132900116480912
+        },
+        "bathroom counter": {
+            "upperbound": 0.5105285432755226,
+            "lowerbound": 0.22142941872447733
+        },
+        "tupperware": {
+            "upperbound": 0.13980404811910987,
+            "lowerbound": 0.06329070188089012
+        },
+        "vacuum cleaner": {
+            "upperbound": 1.119605941941263,
+            "lowerbound": 0.856459496240555
+        },
+        "bathroom stall": {
+            "upperbound": 2.083673434484977,
+            "lowerbound": 1.230054396765023
+        },
+        "toilet seat cover dispenser": {
+            "upperbound": 0.3896618699961255,
+            "lowerbound": 0.22365493727660182
+        },
+        "flowerpot": {
+            "upperbound": 0.4196366129975187,
+            "lowerbound": 0.3979506570024813
+        },
+        "bathroom stall door": {
+            "upperbound": 1.6981471186089956,
+            "lowerbound": 1.0650640887984109
+        },
+        "closet": {
+            "upperbound": 2.2809944843960888,
+            "lowerbound": 1.1982586827372446
+        },
+        "scale": {
+            "upperbound": 0.09444860903781975,
+            "lowerbound": 0.035738137406624695
+        },
+        "food display": {
+            "upperbound": 1.380801,
+            "lowerbound": 1.3202521000000003
+        },
+        "structure": {
+            "upperbound": 2.0549522860545038,
+            "lowerbound": 0.5037876799454961
+        },
+        "bowl": {
+            "upperbound": 0.13928761693746167,
+            "lowerbound": 0.06603280006253831
+        },
+        "breakfast bar": {
+            "upperbound": 1.1113377797717323,
+            "lowerbound": 0.2836157952282675
+        },
+        "laundry bag": {
+            "upperbound": 0.47891036,
+            "lowerbound": 0.47891036
+        },
+        "windowsill": {
+            "upperbound": 0.36864062130826875,
+            "lowerbound": 0.0944635267786878
+        },
+        "spray bottle": {
+            "upperbound": 0.29680604,
+            "lowerbound": 0.26415526999999994
+        },
+        "ladder": {
+            "upperbound": 2.216623494538302,
+            "lowerbound": 1.2184662521283647
+        },
+        "cushion": {
+            "upperbound": 0.5781293174776916,
+            "lowerbound": 0.3648728025223084
+        },
+        "step": {
+            "upperbound": 0.427802314790129,
+            "lowerbound": 0.18158525020987107
+        },
+        "cart": {
+            "upperbound": 1.0379639514767993,
+            "lowerbound": 0.7694603085232005
+        },
+        "pantry wall": {
+            "upperbound": 2.4677789905605545,
+            "lowerbound": 1.356743009439446
+        },
+        "pantry shelf": {
+            "upperbound": 1.9351089,
+            "lowerbound": 1.9351089
+        },
+        "dishwasher": {
+            "upperbound": 0.8886293119996326,
+            "lowerbound": 0.6382121690003676
+        },
+        "stair": {
+            "upperbound": 2.9678442,
+            "lowerbound": 1.5053287
+        },
+        "dining table": {
+            "upperbound": 0.9216414680124548,
+            "lowerbound": 0.45539947198754527
+        },
+        "mailbox": {
+            "upperbound": 1.6866693599334412,
+            "lowerbound": 0.8450717733998923
+        },
+        "display": {
+            "upperbound": 1.171712,
+            "lowerbound": 1.171712
+        },
+        "tap": {
+            "upperbound": 0.3075168,
+            "lowerbound": 0.3075168
+        },
+        "cable": {
+            "upperbound": 1.2608255,
+            "lowerbound": 1.2608255
+        },
+        "poster": {
+            "upperbound": 1.1461508949438708,
+            "lowerbound": 0.4869752050561292
+        },
+        "airplane": {
+            "upperbound": 0.13283229000000002,
+            "lowerbound": 0.12889636
+        },
+        "teapot": {
+            "upperbound": 0.20557994,
+            "lowerbound": 0.20557994
+        },
+        "toy dinosaur": {
+            "upperbound": 0.252344,
+            "lowerbound": 0.252344
+        },
+        "luggage stand": {
+            "upperbound": 0.6344399,
+            "lowerbound": 0.044002651999999975
+        },
+        "toilet flush button": {
+            "upperbound": 0.21013314,
+            "lowerbound": 0.21013314
+        },
+        "vent": {
+            "upperbound": 0.5842068405661908,
+            "lowerbound": 0.16106776610047577
+        },
+        "vending machine": {
+            "upperbound": 1.778210580112496,
+            "lowerbound": 1.6637357398875035
+        },
+        "plastic bin": {
+            "upperbound": 0.3332221,
+            "lowerbound": 0.3332221
+        },
+        "pot": {
+            "upperbound": 0.19350870555356128,
+            "lowerbound": 0.15480064111310535
+        },
+        "cutting board": {
+            "upperbound": 0.3440854071996865,
+            "lowerbound": 0.05080392240031359
+        },
+        "piano bench": {
+            "upperbound": 0.4726386322103341,
+            "lowerbound": 0.329481217789666
+        },
+        "metronome": {
+            "upperbound": 0.2094202,
+            "lowerbound": 0.18922496
+        },
+        "divider": {
+            "upperbound": 1.373789853357167,
+            "lowerbound": 0.8125442133094999
+        },
+        "bench": {
+            "upperbound": 0.6863147841760013,
+            "lowerbound": 0.27430190808206323
+        },
+        "barricade": {
+            "upperbound": 1.0937887,
+            "lowerbound": 1.0937887
+        },
+        "water fountain": {
+            "upperbound": 0.8720684030233607,
+            "lowerbound": 0.32593912897663907
+        },
+        "water cooler": {
+            "upperbound": 1.3845822739763307,
+            "lowerbound": 0.828819660023669
+        },
+        "banister": {
+            "upperbound": 2.126083,
+            "lowerbound": 2.126083
+        },
+        "heater": {
+            "upperbound": 0.5604829531336409,
+            "lowerbound": 0.4889563201996924
+        },
+        "hanging": {
+            "upperbound": 2.0993866161296877,
+            "lowerbound": 1.2752195838703124
+        },
+        "mouthwash bottle": {
+            "upperbound": 0.21955484,
+            "lowerbound": 0.21955484
+        },
+        "column": {
+            "upperbound": 1.9574565258090435,
+            "lowerbound": 1.198250249575572
+        },
+        "hair brush": {
+            "upperbound": 0.037528098,
+            "lowerbound": 0.03498721
+        },
+        "shower floor": {
+            "upperbound": 0.1503777117930738,
+            "lowerbound": 0.08616229576248174
+        },
+        "dumbbell": {
+            "upperbound": 0.22267292009571962,
+            "lowerbound": 0.10268947333285186
+        },
+        "hose": {
+            "upperbound": 0.45918572,
+            "lowerbound": 0.45918572
+        },
+        "shampoo": {
+            "upperbound": 0.23100197,
+            "lowerbound": 0.0902673
+        },
+        "workbench": {
+            "upperbound": 0.9324044,
+            "lowerbound": 0.9324044
+        },
+        "toilet brush": {
+            "upperbound": 0.45469688637144473,
+            "lowerbound": 0.35306672029522196
+        },
+        "soap bottle": {
+            "upperbound": 0.15377146541573486,
+            "lowerbound": 0.12844945458426518
+        },
+        "toothpaste": {
+            "upperbound": 0.04317403,
+            "lowerbound": 0.03410679
+        },
+        "drawer": {
+            "upperbound": 1.426561880970965,
+            "lowerbound": 0.6753150150290347
+        },
+        "laundry hamper": {
+            "upperbound": 0.675002223516838,
+            "lowerbound": 0.5321400888641141
+        },
+        "coat": {
+            "upperbound": 1.1783649721753007,
+            "lowerbound": 0.8830082278246991
+        },
+        "umbrella": {
+            "upperbound": 0.77514315,
+            "lowerbound": 0.73224664
+        },
+        "tire": {
+            "upperbound": 0.23912098373094975,
+            "lowerbound": 0.21366353126905024
+        },
+        "roomba": {
+            "upperbound": 0.16909486,
+            "lowerbound": 0.16909486
+        },
+        "toolbox": {
+            "upperbound": 0.4064748876274346,
+            "lowerbound": 0.1823365257058987
+        },
+        "screen": {
+            "upperbound": 2.0120873,
+            "lowerbound": 0.40532428
+        },
+        "studio light": {
+            "upperbound": 0.6136403513047742,
+            "lowerbound": 0.4442953820285592
+        },
+        "switch": {
+            "upperbound": 0.27885497,
+            "lowerbound": 0.27885497
+        },
+        "whiteboard eraser": {
+            "upperbound": 0.17062297022960435,
+            "lowerbound": 0.03139569737039563
+        },
+        "globe": {
+            "upperbound": 0.7162096233463997,
+            "lowerbound": 0.21788304998693367
+        },
+        "remote": {
+            "upperbound": 0.7506597032255568,
+            "lowerbound": -0.15354167772555682
+        },
+        "elevator button": {
+            "upperbound": 0.40636402,
+            "lowerbound": 0.40636402
+        },
+        "broom": {
+            "upperbound": 1.4193984103645185,
+            "lowerbound": 0.8499813646354815
+        },
+        "dustpan": {
+            "upperbound": 0.9482117174656165,
+            "lowerbound": 0.2042038905343836
+        },
+        "power strip": {
+            "upperbound": 0.10344493895209922,
+            "lowerbound": 0.047640220647900744
+        },
+        "paper tray": {
+            "upperbound": 0.17846453,
+            "lowerbound": 0.17846453
+        },
+        "battery disposal jar": {
+            "upperbound": 0.27451116,
+            "lowerbound": 0.27451116
+        },
+        "pizza box": {
+            "upperbound": 0.500066,
+            "lowerbound": 0.500066
+        },
+        "trash bag": {
+            "upperbound": 0.28703094,
+            "lowerbound": 0.28703094
+        },
+        "coffee box": {
+            "upperbound": 0.22058022,
+            "lowerbound": 0.21513152000000002
+        },
+        "exit sign": {
+            "upperbound": 0.3197892018497861,
+            "lowerbound": 0.1877042114835472
+        },
+        "shower head": {
+            "upperbound": 0.14878794909278126,
+            "lowerbound": 0.08783843590721875
+        },
+        "tape": {
+            "upperbound": 0.105285406,
+            "lowerbound": 0.105285406
+        },
+        "headphones": {
+            "upperbound": 0.12025885145562716,
+            "lowerbound": 0.07764959254437286
+        },
+        "pool table": {
+            "upperbound": 0.9629599091664738,
+            "lowerbound": 0.7954011908335263
+        },
+        "sticker": {
+            "upperbound": 0.30413568,
+            "lowerbound": 0.30413568
+        },
+        "card": {
+            "upperbound": 0.22595155,
+            "lowerbound": 0.17533982000000004
+        },
+        "sliding wood door": {
+            "upperbound": 1.7089045,
+            "lowerbound": 1.6655427999999999
+        },
+        "cat litter box": {
+            "upperbound": 0.48491073,
+            "lowerbound": 0.48491073
+        },
+        "carseat": {
+            "upperbound": 0.6092818,
+            "lowerbound": 0.54285717
+        },
+        "golf bag": {
+            "upperbound": 1.0505689999999999,
+            "lowerbound": 1.0440706
+        },
+        "purse": {
+            "upperbound": 0.4402682009914015,
+            "lowerbound": 0.1455458902085984
+        },
+        "toilet paper dispenser": {
+            "upperbound": 0.7187291836380721,
+            "lowerbound": 0.44553808559269703
+        },
+        "wet floor sign": {
+            "upperbound": 0.6839266,
+            "lowerbound": 0.6086172
+        },
+        "toilet paper holder": {
+            "upperbound": 0.5590266793115174,
+            "lowerbound": 0.08439159568848267
+        },
+        "handicap bar": {
+            "upperbound": 0.312030418997274,
+            "lowerbound": -0.021038428747274046
+        },
+        "wood": {
+            "upperbound": 0.13765335,
+            "lowerbound": 0.09807280499999999
+        },
+        "wood beam": {
+            "upperbound": 0.15299155,
+            "lowerbound": 0.15299155
+        },
+        "hoverboard": {
+            "upperbound": 0.17563963,
+            "lowerbound": 0.17563963
+        },
+        "nerf gun": {
+            "upperbound": 0.096098155,
+            "lowerbound": 0.096098155
+        },
+        "pitcher": {
+            "upperbound": 0.24035943,
+            "lowerbound": 0.17837137
+        },
+        "poster tube": {
+            "upperbound": 0.85059077,
+            "lowerbound": 0.60842484
+        },
+        "paper bag": {
+            "upperbound": 0.4646211300279201,
+            "lowerbound": 0.3323388426993526
+        },
+        "loft bed": {
+            "upperbound": 2.0726206,
+            "lowerbound": 1.8872411000000002
+        },
+        "water pitcher": {
+            "upperbound": 0.26627125412334673,
+            "lowerbound": 0.22250180143220882
+        },
+        "wall hanging": {
+            "upperbound": 1.6010637,
+            "lowerbound": 1.0470027000000002
+        },
+        "beanbag chair": {
+            "upperbound": 0.45468011,
+            "lowerbound": 0.24383512000000002
+        },
+        "dishwashing soap bottle": {
+            "upperbound": 0.16392273,
+            "lowerbound": 0.16392273
+        },
+        "sponge": {
+            "upperbound": 0.063928604,
+            "lowerbound": 0.063928604
+        },
+        "footstool": {
+            "upperbound": 0.47103941478266453,
+            "lowerbound": 0.1528722385506688
+        },
+        "closet ceiling": {
+            "upperbound": 0.41449022488263243,
+            "lowerbound": 0.14320850445070096
+        },
+        "storage organizer": {
+            "upperbound": 1.034238902241604,
+            "lowerbound": 0.6793010777583959
+        },
+        "boxes of paper": {
+            "upperbound": 0.5992116,
+            "lowerbound": 0.46257019999999993
+        },
+        "flag": {
+            "upperbound": 0.49772388,
+            "lowerbound": 0.49772388
+        },
+        "cd case": {
+            "upperbound": 0.2514638351410454,
+            "lowerbound": 0.18857680263673235
+        },
+        "calendar": {
+            "upperbound": 0.7609767151205281,
+            "lowerbound": 0.4641150148794718
+        },
+        "hamper": {
+            "upperbound": 0.7008540324579104,
+            "lowerbound": 0.5276516350420897
+        },
+        "jar": {
+            "upperbound": 0.3596588321277041,
+            "lowerbound": 0.21871326787229592
+        },
+        "toaster": {
+            "upperbound": 0.1901142316618272,
+            "lowerbound": 0.14642365976674424
+        },
+        "coffee kettle": {
+            "upperbound": 0.20064929237844287,
+            "lowerbound": 0.16596464762155716
+        },
+        "covered box": {
+            "upperbound": 0.63192475,
+            "lowerbound": 0.63192475
+        },
+        "hat": {
+            "upperbound": 0.2665874604488,
+            "lowerbound": 0.11555634266231112
+        },
+        "pants": {
+            "upperbound": 0.58480746,
+            "lowerbound": 0.5024777999999999
+        },
+        "sock": {
+            "upperbound": 0.042423353,
+            "lowerbound": 0.042423353
+        },
+        "knife block": {
+            "upperbound": 0.30538404,
+            "lowerbound": 0.30538404
+        },
+        "kitchen mixer": {
+            "upperbound": 0.3715558,
+            "lowerbound": 0.3715558
+        },
+        "kitchen apron": {
+            "upperbound": 1.0023603,
+            "lowerbound": 1.0023603
+        },
+        "air hockey table": {
+            "upperbound": 0.8024498,
+            "lowerbound": 0.8024498
+        },
+        "folded table": {
+            "upperbound": 1.4292451445355434,
+            "lowerbound": 0.5656601434644567
+        },
+        "foosball table": {
+            "upperbound": 0.9358003804639488,
+            "lowerbound": 0.9047464795360511
+        },
+        "music stand": {
+            "upperbound": 0.9546181041722247,
+            "lowerbound": 0.3287704991611088
+        },
+        "vase": {
+            "upperbound": 0.477092966270706,
+            "lowerbound": 0.19887679372929395
+        },
+        "telescope": {
+            "upperbound": 1.5147396,
+            "lowerbound": 1.5147396
+        },
+        "santa": {
+            "upperbound": 0.58251274,
+            "lowerbound": 0.58251274
+        },
+        "urinal": {
+            "upperbound": 0.776748762271724,
+            "lowerbound": 0.7064980110616095
+        },
+        "poster cutter": {
+            "upperbound": 0.10551232,
+            "lowerbound": 0.10551232
+        },
+        "rolled poster": {
+            "upperbound": 0.9086091,
+            "lowerbound": 0.25742352
+        },
+        "poster printer": {
+            "upperbound": 1.0073736,
+            "lowerbound": 1.0073736
+        },
+        "swiffer": {
+            "upperbound": 1.121984769898128,
+            "lowerbound": 0.597883574101872
+        },
+        "toilet paper package": {
+            "upperbound": 0.50379056,
+            "lowerbound": 0.42320848
+        },
+        "rug": {
+            "upperbound": 0.3053004434730222,
+            "lowerbound": 0.011998596193644434
+        },
+        "ping pong table": {
+            "upperbound": 0.8836421999999999,
+            "lowerbound": 0.8624905
+        },
+        "chandelier": {
+            "upperbound": 0.38594198,
+            "lowerbound": 0.38594198
+        },
+        "dispenser": {
+            "upperbound": 0.7329177,
+            "lowerbound": 0.6724905999999999
+        },
+        "stapler": {
+            "upperbound": 0.1932059,
+            "lowerbound": 0.08849537399999999
+        },
+        "display case": {
+            "upperbound": 1.2244617521778165,
+            "lowerbound": 0.3200780944888501
+        },
+        "clothing rack": {
+            "upperbound": 1.6284283,
+            "lowerbound": 1.5461465000000003
+        },
+        "wheel": {
+            "upperbound": 0.28354037,
+            "lowerbound": 0.28354037
+        },
+        "envelope": {
+            "upperbound": 0.28187752,
+            "lowerbound": 0.13542562999999996
+        },
+        "machine": {
+            "upperbound": 1.358598103111513,
+            "lowerbound": 0.8891183068884873
+        },
+        "magazine rack": {
+            "upperbound": 1.1010895,
+            "lowerbound": 1.1010895
+        },
+        "keyboard piano": {
+            "upperbound": 0.5847824537782919,
+            "lowerbound": 0.03830180955504148
+        },
+        "organizer shelf": {
+            "upperbound": 1.51207,
+            "lowerbound": 1.51207
+        },
+        "coatrack": {
+            "upperbound": 1.7256109,
+            "lowerbound": 1.7256109
+        },
+        "instrument case": {
+            "upperbound": 1.7546569527231513,
+            "lowerbound": 0.9882891806101823
+        },
+        "boat": {
+            "upperbound": 0.59771097,
+            "lowerbound": 0.59771097
+        },
+        "cardboard": {
+            "upperbound": 0.8923100166106213,
+            "lowerbound": 0.7396116500560455
+        },
+        "teddy bear": {
+            "upperbound": 0.34033463141944886,
+            "lowerbound": 0.23937919524721782
+        },
+        "stuffed animal": {
+            "upperbound": 0.37916151622306893,
+            "lowerbound": 0.28124505177693104
+        },
+        "carpet": {
+            "upperbound": 0.3795329537219535,
+            "lowerbound": 0.10189350127804656
+        },
+        "map": {
+            "upperbound": 0.8001367,
+            "lowerbound": 0.8001367
+        },
+        "chain": {
+            "upperbound": 0.82534975,
+            "lowerbound": 0.82534975
+        },
+        "electric panel": {
+            "upperbound": 0.7946795,
+            "lowerbound": 0.7946795
+        },
+        "potted plant": {
+            "upperbound": 1.0273464474438443,
+            "lowerbound": 0.6196246992228225
+        },
+        "hand rail": {
+            "upperbound": 0.24697787,
+            "lowerbound": 0.19714283999999999
+        },
+        "massage chair": {
+            "upperbound": 1.2139757,
+            "lowerbound": 1.2139757
+        },
+        "photo": {
+            "upperbound": 0.24922562,
+            "lowerbound": 0.24922562
+        },
+        "drying rack": {
+            "upperbound": 0.83993495,
+            "lowerbound": 0.83154726
+        },
+        "water heater": {
+            "upperbound": 2.032368,
+            "lowerbound": 1.4640225
+        },
+        "laundry detergent": {
+            "upperbound": 0.3170419347643441,
+            "lowerbound": 0.2656933423785131
+        },
+        "toiletry": {
+            "upperbound": 0.2473982,
+            "lowerbound": 0.2473982
+        },
+        "closet doorframe": {
+            "upperbound": 1.6040561,
+            "lowerbound": 1.6040561
+        },
+        "messenger bag": {
+            "upperbound": 0.3392662964160977,
+            "lowerbound": 0.18987009025056895
+        },
+        "furnace": {
+            "upperbound": 1.283173,
+            "lowerbound": 1.283173
+        },
+        "fuse box": {
+            "upperbound": 0.6481329,
+            "lowerbound": 0.6481329
+        },
+        "podium": {
+            "upperbound": 1.2113524999999998,
+            "lowerbound": 1.1844888
+        },
+        "frying pan": {
+            "upperbound": 0.08610516999999998,
+            "lowerbound": 0.08348131
+        },
+        "cooking pan": {
+            "upperbound": 0.065401256,
+            "lowerbound": 0.065401256
+        },
+        "ikea bag": {
+            "upperbound": 0.26990792,
+            "lowerbound": 0.26990792
+        },
+        "futon": {
+            "upperbound": 1.0480664,
+            "lowerbound": 1.0480664
+        },
+        "bear": {
+            "upperbound": 0.5950428,
+            "lowerbound": 0.5950428
+        },
+        "folder": {
+            "upperbound": 0.019473612,
+            "lowerbound": 0.019473612
+        },
+        "step stool": {
+            "upperbound": 0.6638189218519852,
+            "lowerbound": 0.26268565481468154
+        },
+        "briefcase": {
+            "upperbound": 0.19870824,
+            "lowerbound": 0.19870824
+        },
+        "handrail": {
+            "upperbound": 1.3685216731047236,
+            "lowerbound": 0.8856794202286095
+        },
+        "grab bar": {
+            "upperbound": 0.4654693,
+            "lowerbound": 0.13887196999999998
+        },
+        "food container": {
+            "upperbound": 0.26361052483671255,
+            "lowerbound": 0.21613568849662085
+        },
+        "closet floor": {
+            "upperbound": 0.10065028,
+            "lowerbound": 0.10065028
+        },
+        "iron": {
+            "upperbound": 0.4052517770668583,
+            "lowerbound": 0.26530686959980837
+        },
+        "railing": {
+            "upperbound": 1.1927311,
+            "lowerbound": 0.8832742000000001
+        },
+        "camera": {
+            "upperbound": 0.1308155,
+            "lowerbound": 0.1308155
+        },
+        "traffic cone": {
+            "upperbound": 0.4829879,
+            "lowerbound": 0.43253407
+        },
+        "drum set": {
+            "upperbound": 0.70634675,
+            "lowerbound": 0.70634675
+        },
+        "painting": {
+            "upperbound": 2.0267963,
+            "lowerbound": 0.32490706
+        },
+        "music book": {
+            "upperbound": 0.3347708,
+            "lowerbound": 0.2858953
+        },
+        "elliptical machine": {
+            "upperbound": 1.6925485,
+            "lowerbound": 1.6925485
+        },
+        "storage box": {
+            "upperbound": 0.50368965,
+            "lowerbound": 0.50368965
+        },
+        "crib": {
+            "upperbound": 0.89744025,
+            "lowerbound": 0.89744025
+        },
+        "baby mobile": {
+            "upperbound": 0.87351894,
+            "lowerbound": 0.87351894
+        },
+        "chest": {
+            "upperbound": 0.7849689110291391,
+            "lowerbound": 0.31337872230419445
+        },
+        "diaper bin": {
+            "upperbound": 0.5645582,
+            "lowerbound": 0.5645582
+        },
+        "hand dryer": {
+            "upperbound": 0.65696466,
+            "lowerbound": 0.65696466
+        },
+        "shower control valve": {
+            "upperbound": 0.29028789199115457,
+            "lowerbound": 0.12835600300884545
+        },
+        "statue": {
+            "upperbound": 1.7325144,
+            "lowerbound": 1.4119372000000001
+        },
+        "easel": {
+            "upperbound": 1.7152057,
+            "lowerbound": 1.380218
+        },
+        "rack stand": {
+            "upperbound": 1.876193695692184,
+            "lowerbound": 1.5637347709744827
+        },
+        "book rack": {
+            "upperbound": 1.7780152987720161,
+            "lowerbound": 1.4829055012279835
+        },
+        "beachball": {
+            "upperbound": 0.250984,
+            "lowerbound": 0.250984
+        },
+        "oven mitt": {
+            "upperbound": 0.31220233,
+            "lowerbound": 0.31220233
+        },
+        "mail tray": {
+            "upperbound": 0.8878088,
+            "lowerbound": 0.8878088
+        },
+        "shredder": {
+            "upperbound": 0.7331606,
+            "lowerbound": 0.43011677000000004
+        },
+        "kettle": {
+            "upperbound": 0.18079269,
+            "lowerbound": 0.18079269
+        },
+        "grocery bag": {
+            "upperbound": 0.38887164,
+            "lowerbound": 0.38887164
+        },
+        "food bag": {
+            "upperbound": 0.3096646,
+            "lowerbound": 0.3096646
+        },
+        "canopy": {
+            "upperbound": 0.30399644,
+            "lowerbound": 0.30399644
+        },
+        "duffel bag": {
+            "upperbound": 0.43914288,
+            "lowerbound": 0.29738775000000006
+        },
+        "alarm clock": {
+            "upperbound": 0.12875569651101107,
+            "lowerbound": 0.04897026848898892
+        },
+        "night lamp": {
+            "upperbound": 0.83170605,
+            "lowerbound": 0.83170605
+        },
+        "alarm": {
+            "upperbound": 0.09037238,
+            "lowerbound": 0.09037238
+        },
+        "sofa bed": {
+            "upperbound": 0.9256724,
+            "lowerbound": 0.9256724
+        },
+        "doll": {
+            "upperbound": 0.50334513,
+            "lowerbound": 0.50334513
+        },
+        "desk lamp": {
+            "upperbound": 0.40541905,
+            "lowerbound": 0.35221756000000004
+        },
+        "bike lock": {
+            "upperbound": 0.089402616,
+            "lowerbound": 0.089402616
+        },
+        "recliner chair": {
+            "upperbound": 0.8900989,
+            "lowerbound": 0.8900989
+        },
+        "sweater": {
+            "upperbound": 0.867025,
+            "lowerbound": 0.867025
+        },
+        "trolley": {
+            "upperbound": 1.1258023,
+            "lowerbound": 1.1258023
+        },
+        "yoga mat": {
+            "upperbound": 0.19502938,
+            "lowerbound": 0.19502938
+        },
+        "medal": {
+            "upperbound": 0.43486917,
+            "lowerbound": 0.43486917
+        },
+        "rice cooker": {
+            "upperbound": 0.40078253,
+            "lowerbound": 0.40078253
+        },
+        "banana holder": {
+            "upperbound": 0.28869402,
+            "lowerbound": 0.28869402
+        },
+        "candle": {
+            "upperbound": 0.13988823,
+            "lowerbound": 0.13527795999999997
+        },
+        "controller": {
+            "upperbound": 0.1720304200692437,
+            "lowerbound": 0.04934844743075631
+        },
+        "paper towel": {
+            "upperbound": 0.22325528,
+            "lowerbound": 0.22325528
+        },
+        "tea kettle": {
+            "upperbound": 0.21548569,
+            "lowerbound": 0.21548569
+        },
+        "cabinet door": {
+            "upperbound": 2.0119207,
+            "lowerbound": 1.5217891
+        },
+        "humidifier": {
+            "upperbound": 0.45734286,
+            "lowerbound": 0.45734286
+        },
+        "tray rack": {
+            "upperbound": 0.8311967,
+            "lowerbound": 0.8311967
+        },
+        "shopping bag": {
+            "upperbound": 0.43835917,
+            "lowerbound": 0.43835917
+        },
+        "storage shelf": {
+            "upperbound": 0.71213853,
+            "lowerbound": 0.71213853
+        },
+        "mail": {
+            "upperbound": 0.08305045,
+            "lowerbound": 0.08305045
+        },
+        "headboard": {
+            "upperbound": 1.3123043,
+            "lowerbound": 1.3123043
+        },
+        "luggage": {
+            "upperbound": 0.4293685001939405,
+            "lowerbound": 0.37118522980605934
+        },
+        "trash cabinet": {
+            "upperbound": 1.0128434,
+            "lowerbound": 1.0128434
+        },
+        "quadcopter": {
+            "upperbound": 0.19432291,
+            "lowerbound": 0.19432291
+        },
+        "ipad": {
+            "upperbound": 0.045653284,
+            "lowerbound": 0.045653284
+        },
+        "starbucks cup": {
+            "upperbound": 0.11597848,
+            "lowerbound": 0.11597848
+        },
+        "scanner": {
+            "upperbound": 0.9785272999999999,
+            "lowerbound": 0.11446678999999998
+        },
+        "bag of coffee beans": {
+            "upperbound": 0.24676454,
+            "lowerbound": 0.24676454
+        },
+        "cooking pot": {
+            "upperbound": 0.12593341,
+            "lowerbound": 0.08681058999999999
+        },
+        "salt": {
+            "upperbound": 0.13752013,
+            "lowerbound": 0.13752013
+        },
+        "carton": {
+            "upperbound": 0.20583493,
+            "lowerbound": 0.20583493
+        },
+        "soda stream": {
+            "upperbound": 0.4131196,
+            "lowerbound": 0.4131196
+        },
+        "can": {
+            "upperbound": 0.17592967,
+            "lowerbound": 0.17592967
+        },
+        "closet shelf": {
+            "upperbound": 1.4423559,
+            "lowerbound": 1.4423559
+        },
+        "dart board": {
+            "upperbound": 0.48533893,
+            "lowerbound": 0.48533893
+        },
+        "hand sanitzer dispenser": {
+            "upperbound": 1.3530247,
+            "lowerbound": 1.3530247
+        },
+        "hatrack": {
+            "upperbound": 1.7343284,
+            "lowerbound": 1.7343284
+        },
+        "treadmill": {
+            "upperbound": 1.8801857754203621,
+            "lowerbound": 1.810038757912971
+        },
+        "exercise machine": {
+            "upperbound": 1.7963923716456631,
+            "lowerbound": 1.1770268683543366
+        },
+        "trunk": {
+            "upperbound": 0.5259871,
+            "lowerbound": 0.5259871
+        },
+        "wall mounted coat rack": {
+            "upperbound": 0.3626436,
+            "lowerbound": 0.3626436
+        },
+        "flower stand": {
+            "upperbound": 1.0434586,
+            "lowerbound": 1.0434586
+        },
+        "garbage bag": {
+            "upperbound": 0.49684578,
+            "lowerbound": 0.49684578
+        },
+        "block": {
+            "upperbound": 0.2826327581766762,
+            "lowerbound": 0.20150945382332375
+        },
+        "bunk bed": {
+            "upperbound": 2.0095148,
+            "lowerbound": 2.0095148
+        },
+        "dress rack": {
+            "upperbound": 1.1772001,
+            "lowerbound": 1.1772001
+        },
+        "display rack": {
+            "upperbound": 0.66185975,
+            "lowerbound": 0.66185975
+        },
+        "paper organizer": {
+            "upperbound": 0.42442858,
+            "lowerbound": 0.42442858
+        },
+        "frame": {
+            "upperbound": 0.15161228,
+            "lowerbound": 0.15161228
+        },
+        "changing station": {
+            "upperbound": 0.7813137,
+            "lowerbound": 0.7813137
+        },
+        "organizer": {
+            "upperbound": 1.359555,
+            "lowerbound": 1.359555
+        },
+        "shampoo bottle": {
+            "upperbound": 0.22561008,
+            "lowerbound": 0.13756251000000003
+        },
+        "conditioner bottle": {
+            "upperbound": 0.14224553,
+            "lowerbound": 0.14224553
+        },
+        "notepad": {
+            "upperbound": 0.09042227,
+            "lowerbound": 0.09042227
+        },
+        "washcloth": {
+            "upperbound": 0.05870211,
+            "lowerbound": 0.05870211
+        },
+        "slipper": {
+            "upperbound": 0.11067788,
+            "lowerbound": 0.060707763
+        },
+        "legs": {
+            "upperbound": 0.8221746,
+            "lowerbound": 0.8221746
+        },
+        "bike pump": {
+            "upperbound": 0.70861036,
+            "lowerbound": 0.70861036
+        },
+        "mug": {
+            "upperbound": 0.15280598,
+            "lowerbound": 0.15280598
+        },
+        "flip flops": {
+            "upperbound": 0.10839492,
+            "lowerbound": 0.10839492
+        },
+        "plastic storage bin": {
+            "upperbound": 0.375718,
+            "lowerbound": 0.375718
+        },
+        "exercise bike": {
+            "upperbound": 0.32924974,
+            "lowerbound": 0.32924974
+        },
+        "hand towel": {
+            "upperbound": 0.46452117,
+            "lowerbound": 0.46452117
+        },
+        "loofa": {
+            "upperbound": 0.13426971,
+            "lowerbound": 0.13426971
+        },
+        "toy piano": {
+            "upperbound": 0.3543687,
+            "lowerbound": 0.3543687
+        },
+        "costume": {
+            "upperbound": 0.8092576,
+            "lowerbound": 0.8092576
+        },
+        "dryer sheets": {
+            "upperbound": 0.13352036,
+            "lowerbound": 0.13352036
+        }
+    },
+    "vol_thresholds": {
+        "floor": {
+            "upperbound": 21.859769874637195,
+            "lowerbound": -3.7164776490920826
+        },
+        "wall": {
+            "upperbound": 13.715276372849921,
+            "lowerbound": -4.862574806924607
+        },
+        "0": {
+            "upperbound": 116.23183893079135,
+            "lowerbound": 7.267219582096168
+        },
+        "table": {
+            "upperbound": 5.584787739671826,
+            "lowerbound": -1.4542763262878733
+        },
+        "couch": {
+            "upperbound": 4.583339509856178,
+            "lowerbound": 0.5503098711022627
+        },
+        "chair": {
+            "upperbound": 0.86991733311841,
+            "lowerbound": -0.28032597544494187
+        },
+        "object": {
+            "upperbound": 0.18998999275680556,
+            "lowerbound": -0.10228236856835726
+        },
+        "tv": {
+            "upperbound": 0.5760334108579174,
+            "lowerbound": 0.01126639623486625
+        },
+        "wardrobe": {
+            "upperbound": 5.53705654278131,
+            "lowerbound": -0.5101980372428487
+        },
+        "door": {
+            "upperbound": 1.240772134987534,
+            "lowerbound": 0.015657224220466004
+        },
+        "ceiling": {
+            "upperbound": 6.897482463006289,
+            "lowerbound": -2.493121035047521
+        },
+        "bed": {
+            "upperbound": 7.3945099745123155,
+            "lowerbound": 2.8840864925929477
+        },
+        "dresser": {
+            "upperbound": 1.0829569908124808,
+            "lowerbound": 0.32750460085418576
+        },
+        "desk": {
+            "upperbound": 5.122726309757745,
+            "lowerbound": -1.0268685504461508
+        },
+        "shelf": {
+            "upperbound": 3.877379806903624,
+            "lowerbound": -1.4517221330641719
+        },
+        "recycling bin": {
+            "upperbound": 0.16703760087548175,
+            "lowerbound": 0.02258508080536928
+        },
+        "radiator": {
+            "upperbound": 1.382848831302774,
+            "lowerbound": -0.23230967051705975
+        },
+        "window": {
+            "upperbound": 7.094557255492269,
+            "lowerbound": -3.3906389526106984
+        },
+        "trash can": {
+            "upperbound": 0.22257583087372007,
+            "lowerbound": -0.011369715527675447
+        },
+        "armchair": {
+            "upperbound": 1.0274250315885363,
+            "lowerbound": 0.4447300612441168
+        },
+        "sofa chair": {
+            "upperbound": 1.0770756283160798,
+            "lowerbound": 0.4943689962453236
+        },
+        "coffee table": {
+            "upperbound": 0.7077342272817955,
+            "lowerbound": 0.17083136765733492
+        },
+        "end table": {
+            "upperbound": 0.333410088847393,
+            "lowerbound": 0.09676242789454251
+        },
+        "picture": {
+            "upperbound": 1.1140362135610355,
+            "lowerbound": -0.7471924458332331
+        },
+        "seat": {
+            "upperbound": 0.6896088958454131,
+            "lowerbound": -0.07997384533112739
+        },
+        "whiteboard": {
+            "upperbound": 6.027774781278047,
+            "lowerbound": -1.7395538642719854
+        },
+        "cabinet": {
+            "upperbound": 3.797818433448258,
+            "lowerbound": -1.0218687029693114
+        },
+        "doorframe": {
+            "upperbound": 1.1902382894001313,
+            "lowerbound": 0.10768502821104509
+        },
+        "curtain": {
+            "upperbound": 4.879179419522577,
+            "lowerbound": -0.1842376622897013
+        },
+        "lamp": {
+            "upperbound": 0.15455456701007386,
+            "lowerbound": -0.008099107406304248
+        },
+        "fireplace": {
+            "upperbound": 2.6829068915180994,
+            "lowerbound": 1.3392567827676152
+        },
+        "backpack": {
+            "upperbound": 0.0904011615528522,
+            "lowerbound": 0.04797403882905733
+        },
+        "pillow": {
+            "upperbound": 0.13866096389358804,
+            "lowerbound": 0.027657185883111002
+        },
+        "person": {
+            "upperbound": 0.8037937638542634,
+            "lowerbound": 0.1690962083362128
+        },
+        "shoe": {
+            "upperbound": 0.01890266519005229,
+            "lowerbound": 0.005195009424347709
+        },
+        "nightstand": {
+            "upperbound": 0.37524687339576646,
+            "lowerbound": 0.13855099314186803
+        },
+        "furniture": {
+            "upperbound": 2.1249701881354075,
+            "lowerbound": 0.14750204519792554
+        },
+        "office chair": {
+            "upperbound": 0.5196851178435771,
+            "lowerbound": 0.19828863580134598
+        },
+        "monitor": {
+            "upperbound": 0.14647043236593424,
+            "lowerbound": 0.0009459750781024845
+        },
+        "keyboard": {
+            "upperbound": 0.011115186668238821,
+            "lowerbound": 0.0020103014096372867
+        },
+        "mirror": {
+            "upperbound": 0.5292077613671887,
+            "lowerbound": -0.08208713708425538
+        },
+        "bathroom cabinet": {
+            "upperbound": 1.537641103196888,
+            "lowerbound": 0.21822412240311184
+        },
+        "sink": {
+            "upperbound": 0.19296405720169799,
+            "lowerbound": 0.012115896762022932
+        },
+        "toilet": {
+            "upperbound": 0.353066161919693,
+            "lowerbound": 0.18847001532104776
+        },
+        "toilet paper": {
+            "upperbound": 0.011280373688245065,
+            "lowerbound": -0.002551395114966374
+        },
+        "bathtub": {
+            "upperbound": 1.233932351520451,
+            "lowerbound": 0.30237810282437677
+        },
+        "shower wall": {
+            "upperbound": 4.475165120924229,
+            "lowerbound": 1.0732297544329126
+        },
+        "shower curtain rod": {
+            "upperbound": 0.025295533276113502,
+            "lowerbound": -0.0021372719538912816
+        },
+        "shower curtain": {
+            "upperbound": 0.8234548107891023,
+            "lowerbound": -0.07197993369386413
+        },
+        "towel": {
+            "upperbound": 0.12596097164169764,
+            "lowerbound": -0.05357348853532994
+        },
+        "telephone": {
+            "upperbound": 0.012445531197829717,
+            "lowerbound": 0.0036076523707417084
+        },
+        "stove": {
+            "upperbound": 1.1133812450524274,
+            "lowerbound": 0.6228855564860343
+        },
+        "kitchen cabinet": {
+            "upperbound": 1.8228199085934995,
+            "lowerbound": -0.18958480990193227
+        },
+        "kitchen counter": {
+            "upperbound": 2.6883336462721155,
+            "lowerbound": -0.4371286531951921
+        },
+        "refrigerator": {
+            "upperbound": 1.40530206943893,
+            "lowerbound": 0.4704897002832921
+        },
+        "range hood": {
+            "upperbound": 0.20928414893840055,
+            "lowerbound": -0.029907420366972
+        },
+        "book": {
+            "upperbound": 0.37901697253312283,
+            "lowerbound": -0.1706934382410341
+        },
+        "storage bin": {
+            "upperbound": 0.11033005246326157,
+            "lowerbound": 0.03203282693067781
+        },
+        "light": {
+            "upperbound": 0.16467389609466615,
+            "lowerbound": -0.06596941762783687
+        },
+        "sewing machine": {
+            "upperbound": 0.058176838,
+            "lowerbound": 0.0235661
+        },
+        "board": {
+            "upperbound": 2.4135643076459594,
+            "lowerbound": -0.5676695409186864
+        },
+        "box": {
+            "upperbound": 0.19572473410525687,
+            "lowerbound": -0.021644129532328693
+        },
+        "clothes": {
+            "upperbound": 0.39318176854879583,
+            "lowerbound": -0.05186383076291343
+        },
+        "ironing board": {
+            "upperbound": 0.6201615529991988,
+            "lowerbound": -0.10715425128491313
+        },
+        "shorts": {
+            "upperbound": 0.09267151999999998,
+            "lowerbound": 0.03400459499999999
+        },
+        "shirt": {
+            "upperbound": 0.1106930536413401,
+            "lowerbound": 0.045346121025326556
+        },
+        "jacket": {
+            "upperbound": 0.1382144728994062,
+            "lowerbound": -0.008443273672991108
+        },
+        "folded ladder": {
+            "upperbound": 0.35124627,
+            "lowerbound": 0.14720388
+        },
+        "coat rack": {
+            "upperbound": 0.3285631440043423,
+            "lowerbound": 0.05797089599565769
+        },
+        "bathroom vanity": {
+            "upperbound": 1.2946901208366257,
+            "lowerbound": 0.18008453848540806
+        },
+        "mat": {
+            "upperbound": 0.09373482916571861,
+            "lowerbound": 0.0006796129881275342
+        },
+        "bottle": {
+            "upperbound": 0.009721313110255564,
+            "lowerbound": 0.00031562889280325763
+        },
+        "stool": {
+            "upperbound": 0.19029640193458927,
+            "lowerbound": 0.0393721086759371
+        },
+        "blinds": {
+            "upperbound": 19.42427328482519,
+            "lowerbound": -6.94159544300701
+        },
+        "mattress": {
+            "upperbound": 3.202870009942755,
+            "lowerbound": 0.7703965100572454
+        },
+        "dollhouse": {
+            "upperbound": 0.46503758,
+            "lowerbound": 0.46503758
+        },
+        "rope": {
+            "upperbound": 0.16026515,
+            "lowerbound": 0.012099468000000002
+        },
+        "closet door": {
+            "upperbound": 1.1914650938191946,
+            "lowerbound": 0.034692179493305386
+        },
+        "tissue box": {
+            "upperbound": 0.026497516859611898,
+            "lowerbound": -0.0027881142826888215
+        },
+        "bookshelf": {
+            "upperbound": 9.860639310627663,
+            "lowerbound": -2.582682425815005
+        },
+        "piano": {
+            "upperbound": 3.126227488161856,
+            "lowerbound": 1.0551816096159214
+        },
+        "blanket": {
+            "upperbound": 2.5991960637274834,
+            "lowerbound": -1.0041144498874832
+        },
+        "bar": {
+            "upperbound": 0.1605156204989216,
+            "lowerbound": -0.08207400088758825
+        },
+        "faucet": {
+            "upperbound": 0.4753002315487644,
+            "lowerbound": -0.10169407382876444
+        },
+        "soap dish": {
+            "upperbound": 0.003192332812435935,
+            "lowerbound": 0.0007710460958399276
+        },
+        "paper towel dispenser": {
+            "upperbound": 0.08183790190457033,
+            "lowerbound": -0.0034910353782545353
+        },
+        "footrest": {
+            "upperbound": 0.22510133395112586,
+            "lowerbound": 0.08211130004887418
+        },
+        "cloth": {
+            "upperbound": 0.22510397177743346,
+            "lowerbound": 0.020835292222566568
+        },
+        "computer tower": {
+            "upperbound": 0.11773681080980367,
+            "lowerbound": 0.02718716270239143
+        },
+        "laptop": {
+            "upperbound": 0.06392282176995825,
+            "lowerbound": 0.018050598809528938
+        },
+        "water bottle": {
+            "upperbound": 0.02312215587645982,
+            "lowerbound": -0.004293469590745532
+        },
+        "storage container": {
+            "upperbound": 0.1036459981809732,
+            "lowerbound": 0.01687868048569347
+        },
+        "stand": {
+            "upperbound": 1.2750538587322795,
+            "lowerbound": -0.32523953123227956
+        },
+        "tripod": {
+            "upperbound": 0.3328555809324524,
+            "lowerbound": 0.147661792400881
+        },
+        "power outlet": {
+            "upperbound": 0.002654257015247967,
+            "lowerbound": 0.00032470718838839693
+        },
+        "tv stand": {
+            "upperbound": 1.0047441427804469,
+            "lowerbound": 0.3697601528717269
+        },
+        "mini fridge": {
+            "upperbound": 0.3948944132484502,
+            "lowerbound": 0.13321585487276186
+        },
+        "suitcase": {
+            "upperbound": 0.18682317288578382,
+            "lowerbound": 0.06516094013985718
+        },
+        "clock": {
+            "upperbound": 0.03642409912000484,
+            "lowerbound": -0.0016128386200048445
+        },
+        "blackboard": {
+            "upperbound": 7.3967688374578575,
+            "lowerbound": 0.05188962177291234
+        },
+        "sign": {
+            "upperbound": 0.06012613735169442,
+            "lowerbound": -0.007996696426694417
+        },
+        "soap dispenser": {
+            "upperbound": 0.010926257250726984,
+            "lowerbound": 0.0017343060006366536
+        },
+        "file cabinet": {
+            "upperbound": 0.7817217571699545,
+            "lowerbound": -0.17321369423813637
+        },
+        "paper": {
+            "upperbound": 0.039959109248356744,
+            "lowerbound": 0.0035832626593355586
+        },
+        "boiler": {
+            "upperbound": 0.9513551,
+            "lowerbound": 0.7164150499999999
+        },
+        "car": {
+            "upperbound": 10.000551999999999,
+            "lowerbound": 8.961745
+        },
+        "soap": {
+            "upperbound": 1.33358014538585,
+            "lowerbound": -0.44028326930584993
+        },
+        "container": {
+            "upperbound": 0.11919010997482554,
+            "lowerbound": -0.002197216513955956
+        },
+        "bag": {
+            "upperbound": 0.08231024994986626,
+            "lowerbound": 0.009297183906996506
+        },
+        "garage door": {
+            "upperbound": 4.4968457,
+            "lowerbound": 0.06423915999999963
+        },
+        "case": {
+            "upperbound": 0.08452128617521787,
+            "lowerbound": 0.05986010182478214
+        },
+        "ceiling light": {
+            "upperbound": 0.6243975276088706,
+            "lowerbound": -0.33184433058410856
+        },
+        "bicycle": {
+            "upperbound": 1.2992243215634989,
+            "lowerbound": 0.4959620873253903
+        },
+        "plastic container": {
+            "upperbound": 0.15143620000000002,
+            "lowerbound": 0.13095455
+        },
+        "shoe rack": {
+            "upperbound": 0.305356482149873,
+            "lowerbound": 0.10312159251679373
+        },
+        "ball": {
+            "upperbound": 0.13732887919638265,
+            "lowerbound": -0.02438075191217212
+        },
+        "tank": {
+            "upperbound": 0.07378492,
+            "lowerbound": 0.07378492
+        },
+        "helmet": {
+            "upperbound": 0.017106652374780332,
+            "lowerbound": 0.010199954291886337
+        },
+        "pipe": {
+            "upperbound": 2.9981795190541733,
+            "lowerbound": -0.7816207342986172
+        },
+        "light switch": {
+            "upperbound": 0.001454906282677239,
+            "lowerbound": -2.103566883108522e-05
+        },
+        "round table": {
+            "upperbound": 1.046087546732714,
+            "lowerbound": 0.3814861499339531
+        },
+        "bulletin board": {
+            "upperbound": 3.1891111022042358,
+            "lowerbound": -0.5208714422042353
+        },
+        "pillar": {
+            "upperbound": 1.2216794145565761,
+            "lowerbound": 0.06994808144342402
+        },
+        "magazine": {
+            "upperbound": 5.2553053,
+            "lowerbound": 0.014408482000000333
+        },
+        "projector screen": {
+            "upperbound": 2.917423466434383,
+            "lowerbound": 0.5162731868989507
+        },
+        "copier": {
+            "upperbound": 1.8262085978187161,
+            "lowerbound": 0.540052377038427
+        },
+        "counter": {
+            "upperbound": 1.7720869126229355,
+            "lowerbound": 0.12336411073860298
+        },
+        "paper cutter": {
+            "upperbound": 0.06095372771746466,
+            "lowerbound": 0.019952749215868683
+        },
+        "clothes dryer": {
+            "upperbound": 10.97645724727542,
+            "lowerbound": -0.9124576387039882
+        },
+        "washing machine": {
+            "upperbound": 8.534596513178752,
+            "lowerbound": 0.07341689734756418
+        },
+        "shower door": {
+            "upperbound": 0.3579998154245528,
+            "lowerbound": 0.12378040568655829
+        },
+        "shower": {
+            "upperbound": 3.1001261907946454,
+            "lowerbound": 1.3022981914275764
+        },
+        "printer": {
+            "upperbound": 0.190449538320265,
+            "lowerbound": 0.05448971513806829
+        },
+        "dish rack": {
+            "upperbound": 0.12416479379645516,
+            "lowerbound": 0.012438179017830578
+        },
+        "cup": {
+            "upperbound": 0.00437862387429327,
+            "lowerbound": 0.0003706369026930316
+        },
+        "coffee maker": {
+            "upperbound": 0.09577794186502646,
+            "lowerbound": 0.002898624509973538
+        },
+        "paper towel roll": {
+            "upperbound": 0.011402224369119208,
+            "lowerbound": 0.003991513130880791
+        },
+        "microwave": {
+            "upperbound": 0.11741683680754535,
+            "lowerbound": 0.035474879386003064
+        },
+        "ottoman": {
+            "upperbound": 0.39639518384717715,
+            "lowerbound": 0.1434515986528228
+        },
+        "lunch box": {
+            "upperbound": 0.050606582,
+            "lowerbound": 0.050606582
+        },
+        "trash bin": {
+            "upperbound": 0.3386192708061629,
+            "lowerbound": -0.11005175044252656
+        },
+        "ledge": {
+            "upperbound": 0.8828300913770969,
+            "lowerbound": -0.3231094924115797
+        },
+        "oven": {
+            "upperbound": 0.4182362499313652,
+            "lowerbound": -0.03402757250279384
+        },
+        "closet wall": {
+            "upperbound": 2.595276196603577,
+            "lowerbound": -0.42106425183887164
+        },
+        "rod": {
+            "upperbound": 0.007571021978343166,
+            "lowerbound": -0.0009307107850098314
+        },
+        "toothbrush": {
+            "upperbound": 0.001983707274650789,
+            "lowerbound": 0.0006142934953492111
+        },
+        "compost bin": {
+            "upperbound": 0.041393932698787404,
+            "lowerbound": 0.0383130913012126
+        },
+        "closet rod": {
+            "upperbound": 0.2746041066170696,
+            "lowerbound": -0.020386396500402942
+        },
+        "hair dryer": {
+            "upperbound": 0.013029216247447295,
+            "lowerbound": -0.00043655099887586566
+        },
+        "plate": {
+            "upperbound": 0.006319144381671289,
+            "lowerbound": 0.0018556187254715685
+        },
+        "fan": {
+            "upperbound": 0.22700579986488167,
+            "lowerbound": -0.0036733183982150114
+        },
+        "tube": {
+            "upperbound": 0.08540243178848192,
+            "lowerbound": 0.015493044311518087
+        },
+        "decoration": {
+            "upperbound": 0.3443689823367793,
+            "lowerbound": -0.007782699326252973
+        },
+        "rail": {
+            "upperbound": 0.5330039947269919,
+            "lowerbound": -0.28450499810090496
+        },
+        "folded chair": {
+            "upperbound": 0.5262794889340981,
+            "lowerbound": -0.023905969362669532
+        },
+        "projector": {
+            "upperbound": 0.28097681171200484,
+            "lowerbound": -0.03026318046200485
+        },
+        "thermostat": {
+            "upperbound": 0.0018771177997384198,
+            "lowerbound": 0.00043188397526158046
+        },
+        "plunger": {
+            "upperbound": 0.013783475146091713,
+            "lowerbound": 0.002771827199362831
+        },
+        "plant": {
+            "upperbound": 1.5296473836698445,
+            "lowerbound": -0.6905707286843609
+        },
+        "banner": {
+            "upperbound": 0.9166351134182515,
+            "lowerbound": 0.23062884658174848
+        },
+        "bin": {
+            "upperbound": 0.19122760015480258,
+            "lowerbound": 0.04006583570234026
+        },
+        "toaster oven": {
+            "upperbound": 0.09874554115280976,
+            "lowerbound": 0.02639155451385692
+        },
+        "tray": {
+            "upperbound": 0.07293161376007351,
+            "lowerbound": -0.00827326477545811
+        },
+        "case of water bottles": {
+            "upperbound": 0.05179594795206717,
+            "lowerbound": 0.04086312338126616
+        },
+        "kitchen island": {
+            "upperbound": 3.2891923256570053,
+            "lowerbound": 1.387237274342995
+        },
+        "bathrobe": {
+            "upperbound": 0.10729060444874697,
+            "lowerbound": 0.04794581288458638
+        },
+        "towel rack": {
+            "upperbound": 0.0058650975,
+            "lowerbound": 0.0058650975
+        },
+        "clothes hanger": {
+            "upperbound": 0.022546686348896117,
+            "lowerbound": 0.004384629226103885
+        },
+        "stair rail": {
+            "upperbound": 13.476240093371114,
+            "lowerbound": -5.21389891603778
+        },
+        "smoke detector": {
+            "upperbound": 0.00275770972478557,
+            "lowerbound": 0.0010554764752144304
+        },
+        "mouse": {
+            "upperbound": 0.2970097543478289,
+            "lowerbound": -0.1916342027634811
+        },
+        "guitar": {
+            "upperbound": 0.20482271842174188,
+            "lowerbound": 0.08811377802270258
+        },
+        "guitar case": {
+            "upperbound": 0.2594247761751397,
+            "lowerbound": 0.09221062582486027
+        },
+        "dolly": {
+            "upperbound": 0.36416063988468017,
+            "lowerbound": 0.23616797344865315
+        },
+        "fire alarm": {
+            "upperbound": 0.003619430495819552,
+            "lowerbound": 0.0006567017291804478
+        },
+        "elevator": {
+            "upperbound": 0.6845004,
+            "lowerbound": 0.26207276999999995
+        },
+        "stairs": {
+            "upperbound": 8.604246951345942,
+            "lowerbound": -0.40564013534594334
+        },
+        "fire extinguisher": {
+            "upperbound": 0.0321640899114877,
+            "lowerbound": 0.0047670066885123
+        },
+        "basket": {
+            "upperbound": 0.05299314254042607,
+            "lowerbound": 0.00539260727495855
+        },
+        "bucket": {
+            "upperbound": 0.04908637011276878,
+            "lowerbound": 0.02000054051331817
+        },
+        "speaker": {
+            "upperbound": 0.10206532875505923,
+            "lowerbound": 0.014533717878274122
+        },
+        "crate": {
+            "upperbound": 0.12236228331010067,
+            "lowerbound": 0.0375113162898993
+        },
+        "rack": {
+            "upperbound": 0.790203387323364,
+            "lowerbound": -0.09876032489479264
+        },
+        "ceiling fan": {
+            "upperbound": 0.43864844259989744,
+            "lowerbound": 0.19673220740010255
+        },
+        "laundry basket": {
+            "upperbound": 0.17442424881961033,
+            "lowerbound": 0.0979946111803896
+        },
+        "bathroom counter": {
+            "upperbound": 2.2202878375339172,
+            "lowerbound": -0.3746703535339173
+        },
+        "tupperware": {
+            "upperbound": 0.011809817331106177,
+            "lowerbound": 0.0007920017188938226
+        },
+        "vacuum cleaner": {
+            "upperbound": 0.24089191837875368,
+            "lowerbound": 0.08863121671215546
+        },
+        "bathroom stall": {
+            "upperbound": 6.34600311305495,
+            "lowerbound": 0.16451032619505046
+        },
+        "toilet seat cover dispenser": {
+            "upperbound": 0.029417093670277998,
+            "lowerbound": 0.004870927802449276
+        },
+        "flowerpot": {
+            "upperbound": 0.09140037403861766,
+            "lowerbound": 0.033496382461382354
+        },
+        "bathroom stall door": {
+            "upperbound": 0.4729186793859598,
+            "lowerbound": 0.051930818614040114
+        },
+        "closet": {
+            "upperbound": 4.5761372055740575,
+            "lowerbound": 0.5888712896259427
+        },
+        "scale": {
+            "upperbound": 0.01869800195871814,
+            "lowerbound": 0.0027477846412818606
+        },
+        "food display": {
+            "upperbound": 3.2041428000000005,
+            "lowerbound": 3.198951
+        },
+        "structure": {
+            "upperbound": 6.779299444860012,
+            "lowerbound": -0.7294745008600119
+        },
+        "bowl": {
+            "upperbound": 0.012298399539036674,
+            "lowerbound": 0.0023023973809633263
+        },
+        "breakfast bar": {
+            "upperbound": 3.0440637637268373,
+            "lowerbound": 0.5815732062731627
+        },
+        "laundry bag": {
+            "upperbound": 0.09099852,
+            "lowerbound": 0.09099852
+        },
+        "windowsill": {
+            "upperbound": 2.9664334343683985,
+            "lowerbound": -1.0248507194988334
+        },
+        "spray bottle": {
+            "upperbound": 0.0041927057,
+            "lowerbound": 0.0030148444
+        },
+        "ladder": {
+            "upperbound": 0.9476455768449674,
+            "lowerbound": 0.19331644315503232
+        },
+        "cushion": {
+            "upperbound": 3.322253160439491,
+            "lowerbound": -0.9048991604394907
+        },
+        "step": {
+            "upperbound": 8.914417521791506,
+            "lowerbound": -1.375528198541506
+        },
+        "cart": {
+            "upperbound": 0.9305272792141115,
+            "lowerbound": 0.2291362069397347
+        },
+        "pantry wall": {
+            "upperbound": 1.9237714163816577,
+            "lowerbound": 0.2943990916183423
+        },
+        "pantry shelf": {
+            "upperbound": 1.3648694,
+            "lowerbound": 1.3648694
+        },
+        "dishwasher": {
+            "upperbound": 0.16436957681797498,
+            "lowerbound": 0.04701673118202499
+        },
+        "stair": {
+            "upperbound": 22.458696,
+            "lowerbound": 7.0519414000000005
+        },
+        "dining table": {
+            "upperbound": 1.995845164577874,
+            "lowerbound": 0.5594970854221257
+        },
+        "mailbox": {
+            "upperbound": 9.350501508045935,
+            "lowerbound": -0.9145709502681569
+        },
+        "display": {
+            "upperbound": 1.286784,
+            "lowerbound": 1.286784
+        },
+        "tap": {
+            "upperbound": 0.0019386119,
+            "lowerbound": 0.0019386119
+        },
+        "cable": {
+            "upperbound": 0.004692669,
+            "lowerbound": 0.004692669
+        },
+        "poster": {
+            "upperbound": 0.31413063678666797,
+            "lowerbound": 0.09522506321333205
+        },
+        "airplane": {
+            "upperbound": 0.019219704,
+            "lowerbound": 0.017858176
+        },
+        "teapot": {
+            "upperbound": 0.010927095,
+            "lowerbound": 0.010927095
+        },
+        "toy dinosaur": {
+            "upperbound": 0.014928013,
+            "lowerbound": 0.014928013
+        },
+        "luggage stand": {
+            "upperbound": 0.24033919,
+            "lowerbound": 0.0006424953499999941
+        },
+        "toilet flush button": {
+            "upperbound": 0.014890658,
+            "lowerbound": 0.014890658
+        },
+        "vent": {
+            "upperbound": 0.4817447175761807,
+            "lowerbound": -0.08144226377618075
+        },
+        "vending machine": {
+            "upperbound": 1.6982354246102451,
+            "lowerbound": 1.0100013753897552
+        },
+        "plastic bin": {
+            "upperbound": 0.08048866,
+            "lowerbound": 0.08048866
+        },
+        "pot": {
+            "upperbound": 0.01782292860286666,
+            "lowerbound": 0.006604499597133339
+        },
+        "cutting board": {
+            "upperbound": 0.03008469043205396,
+            "lowerbound": 0.005315436607946039
+        },
+        "piano bench": {
+            "upperbound": 0.20081017323712297,
+            "lowerbound": 0.05299732676287704
+        },
+        "metronome": {
+            "upperbound": 0.010416762,
+            "lowerbound": 0.0032719829999999996
+        },
+        "divider": {
+            "upperbound": 1.3192085625830794,
+            "lowerbound": 0.2887152640835874
+        },
+        "bench": {
+            "upperbound": 3.171082915395269,
+            "lowerbound": -0.956563071911398
+        },
+        "barricade": {
+            "upperbound": 1.8244705,
+            "lowerbound": 1.8244705
+        },
+        "water fountain": {
+            "upperbound": 0.26702983043491935,
+            "lowerbound": 0.059558631965080655
+        },
+        "water cooler": {
+            "upperbound": 0.28551012679961296,
+            "lowerbound": 0.12437968320038709
+        },
+        "banister": {
+            "upperbound": 1.7280682,
+            "lowerbound": 1.7280682
+        },
+        "heater": {
+            "upperbound": 0.2971960144217898,
+            "lowerbound": 0.060497016911543605
+        },
+        "hanging": {
+            "upperbound": 0.45530441944492556,
+            "lowerbound": 0.10795992055507436
+        },
+        "mouthwash bottle": {
+            "upperbound": 0.0024354432,
+            "lowerbound": 0.0024354432
+        },
+        "column": {
+            "upperbound": 0.8958225771017406,
+            "lowerbound": 0.1400446485905672
+        },
+        "hair brush": {
+            "upperbound": 0.00074893475,
+            "lowerbound": 0.0004946695
+        },
+        "shower floor": {
+            "upperbound": 0.22183930738095486,
+            "lowerbound": 0.08804361061904513
+        },
+        "dumbbell": {
+            "upperbound": 0.019536730047663382,
+            "lowerbound": 0.004271687956622329
+        },
+        "hose": {
+            "upperbound": 0.199594,
+            "lowerbound": 0.199594
+        },
+        "shampoo": {
+            "upperbound": 0.0024061035,
+            "lowerbound": 0.0007252860999999999
+        },
+        "workbench": {
+            "upperbound": 2.9335747,
+            "lowerbound": 2.9335747
+        },
+        "toilet brush": {
+            "upperbound": 0.007090791772191231,
+            "lowerbound": 0.004112495094475436
+        },
+        "soap bottle": {
+            "upperbound": 0.001224161653431675,
+            "lowerbound": 0.0005625403999016581
+        },
+        "toothpaste": {
+            "upperbound": 0.0013407919,
+            "lowerbound": 0.00046895488000000006
+        },
+        "drawer": {
+            "upperbound": 10.102374474393526,
+            "lowerbound": -2.6251977503935264
+        },
+        "laundry hamper": {
+            "upperbound": 0.1707722353149878,
+            "lowerbound": 0.11551396744691698
+        },
+        "coat": {
+            "upperbound": 0.20577058420640293,
+            "lowerbound": 0.10672092912693036
+        },
+        "umbrella": {
+            "upperbound": 0.067435235,
+            "lowerbound": 0.035308976000000006
+        },
+        "tire": {
+            "upperbound": 0.05556988155049694,
+            "lowerbound": 0.02544045694950306
+        },
+        "roomba": {
+            "upperbound": 0.024166454,
+            "lowerbound": 0.024166454
+        },
+        "toolbox": {
+            "upperbound": 0.09143565924641664,
+            "lowerbound": 0.014760113420250014
+        },
+        "screen": {
+            "upperbound": 8.797374000000001,
+            "lowerbound": 0.40445452999999976
+        },
+        "studio light": {
+            "upperbound": 0.08365893377328638,
+            "lowerbound": 0.06817952289338029
+        },
+        "switch": {
+            "upperbound": 0.008607206,
+            "lowerbound": 0.008607206
+        },
+        "whiteboard eraser": {
+            "upperbound": 0.0013925092558948848,
+            "lowerbound": 0.0006113933761051154
+        },
+        "globe": {
+            "upperbound": 0.32602254615431203,
+            "lowerbound": -0.013772567820978743
+        },
+        "remote": {
+            "upperbound": 0.2652707617802994,
+            "lowerbound": -0.06926047060529936
+        },
+        "elevator button": {
+            "upperbound": 0.0045781806,
+            "lowerbound": 0.0045781806
+        },
+        "broom": {
+            "upperbound": 0.15018652244479488,
+            "lowerbound": 0.034800653805205105
+        },
+        "dustpan": {
+            "upperbound": 0.1283936523287407,
+            "lowerbound": 0.006074569271259288
+        },
+        "power strip": {
+            "upperbound": 0.008131008114824308,
+            "lowerbound": 0.0014232728451756918
+        },
+        "paper tray": {
+            "upperbound": 0.017503705,
+            "lowerbound": 0.017503705
+        },
+        "battery disposal jar": {
+            "upperbound": 0.0059330445,
+            "lowerbound": 0.0059330445
+        },
+        "pizza box": {
+            "upperbound": 0.06195122,
+            "lowerbound": 0.06195122
+        },
+        "trash bag": {
+            "upperbound": 0.05855311,
+            "lowerbound": 0.05855311
+        },
+        "coffee box": {
+            "upperbound": 0.014400703,
+            "lowerbound": 0.012492228000000001
+        },
+        "exit sign": {
+            "upperbound": 0.037856893771231984,
+            "lowerbound": 0.008981912495434684
+        },
+        "shower head": {
+            "upperbound": 0.0034030847785208066,
+            "lowerbound": 0.0012829098114791923
+        },
+        "tape": {
+            "upperbound": 0.004561947,
+            "lowerbound": 0.004561947
+        },
+        "headphones": {
+            "upperbound": 0.012124684514409467,
+            "lowerbound": 0.0009222892455905338
+        },
+        "pool table": {
+            "upperbound": 6.4741538723492535,
+            "lowerbound": 4.302945394317414
+        },
+        "sticker": {
+            "upperbound": 0.0060869306,
+            "lowerbound": 0.0060869306
+        },
+        "card": {
+            "upperbound": 0.0029405965,
+            "lowerbound": 0.0018082480999999997
+        },
+        "sliding wood door": {
+            "upperbound": 0.5090544,
+            "lowerbound": 0.03632670000000002
+        },
+        "cat litter box": {
+            "upperbound": 0.20267169,
+            "lowerbound": 0.20267169
+        },
+        "carseat": {
+            "upperbound": 0.35085326000000006,
+            "lowerbound": 0.26344338
+        },
+        "golf bag": {
+            "upperbound": 0.1627556,
+            "lowerbound": 0.15421598000000003
+        },
+        "purse": {
+            "upperbound": 0.04942230118463335,
+            "lowerbound": 0.007469338975366665
+        },
+        "toilet paper dispenser": {
+            "upperbound": 0.06266359272531515,
+            "lowerbound": 0.024793280043915622
+        },
+        "wet floor sign": {
+            "upperbound": 0.033110283,
+            "lowerbound": 0.0328621
+        },
+        "toilet paper holder": {
+            "upperbound": 0.04108749695287487,
+            "lowerbound": 0.002383132813791794
+        },
+        "handicap bar": {
+            "upperbound": 0.019866183558423622,
+            "lowerbound": 0.005190737441576375
+        },
+        "wood": {
+            "upperbound": 0.15433036,
+            "lowerbound": 0.10670328000000001
+        },
+        "wood beam": {
+            "upperbound": 0.14801112,
+            "lowerbound": 0.14801112
+        },
+        "hoverboard": {
+            "upperbound": 0.034739956,
+            "lowerbound": 0.034739956
+        },
+        "nerf gun": {
+            "upperbound": 0.013357902,
+            "lowerbound": 0.013357902
+        },
+        "pitcher": {
+            "upperbound": 0.0064065983,
+            "lowerbound": 0.0053095906000000005
+        },
+        "poster tube": {
+            "upperbound": 0.08756303,
+            "lowerbound": 0.031918637
+        },
+        "paper bag": {
+            "upperbound": 0.05762216806614332,
+            "lowerbound": 0.02610047484294758
+        },
+        "loft bed": {
+            "upperbound": 22.435806,
+            "lowerbound": 15.054208000000001
+        },
+        "water pitcher": {
+            "upperbound": 0.014510338513448785,
+            "lowerbound": 0.004784735619884548
+        },
+        "wall hanging": {
+            "upperbound": 0.8923102,
+            "lowerbound": 0.7708711000000001
+        },
+        "beanbag chair": {
+            "upperbound": 0.2812194,
+            "lowerbound": 0.17791078999999999
+        },
+        "dishwashing soap bottle": {
+            "upperbound": 0.0016993552,
+            "lowerbound": 0.0016993552
+        },
+        "sponge": {
+            "upperbound": 0.0014614522,
+            "lowerbound": 0.0014614522
+        },
+        "footstool": {
+            "upperbound": 0.11829962849327895,
+            "lowerbound": 0.021531609773387708
+        },
+        "closet ceiling": {
+            "upperbound": 0.8200715629282751,
+            "lowerbound": 0.03921519440505811
+        },
+        "storage organizer": {
+            "upperbound": 0.22577317933505336,
+            "lowerbound": 0.13510366733161333
+        },
+        "boxes of paper": {
+            "upperbound": 0.32161883,
+            "lowerbound": 0.29539728
+        },
+        "flag": {
+            "upperbound": 0.039674133,
+            "lowerbound": 0.039674133
+        },
+        "cd case": {
+            "upperbound": 0.013229972439537697,
+            "lowerbound": 0.002180452560462301
+        },
+        "calendar": {
+            "upperbound": 0.031174824834767575,
+            "lowerbound": 0.013510111165232427
+        },
+        "hamper": {
+            "upperbound": 0.17544873283838672,
+            "lowerbound": 0.06823172966161331
+        },
+        "jar": {
+            "upperbound": 0.020911254476062072,
+            "lowerbound": 0.00570259327393793
+        },
+        "toaster": {
+            "upperbound": 0.014440775869465466,
+            "lowerbound": 0.006988851130534534
+        },
+        "coffee kettle": {
+            "upperbound": 0.005663406081422682,
+            "lowerbound": 0.004112685078577318
+        },
+        "covered box": {
+            "upperbound": 0.3731398,
+            "lowerbound": 0.3731398
+        },
+        "hat": {
+            "upperbound": 0.030625910468415597,
+            "lowerbound": 0.00458086542047329
+        },
+        "pants": {
+            "upperbound": 0.13530892,
+            "lowerbound": 0.07947374000000001
+        },
+        "sock": {
+            "upperbound": 0.002474964,
+            "lowerbound": 0.002474964
+        },
+        "knife block": {
+            "upperbound": 0.022343047,
+            "lowerbound": 0.022343047
+        },
+        "kitchen mixer": {
+            "upperbound": 0.031414185,
+            "lowerbound": 0.031414185
+        },
+        "kitchen apron": {
+            "upperbound": 0.0605633,
+            "lowerbound": 0.0605633
+        },
+        "air hockey table": {
+            "upperbound": 1.576555,
+            "lowerbound": 1.576555
+        },
+        "folded table": {
+            "upperbound": 1.122421325279535,
+            "lowerbound": 0.24498874552046518
+        },
+        "foosball table": {
+            "upperbound": 2.1223443072495614,
+            "lowerbound": 1.667035012750438
+        },
+        "music stand": {
+            "upperbound": 0.17139718916865126,
+            "lowerbound": 0.04575673483134876
+        },
+        "vase": {
+            "upperbound": 0.024537445625028784,
+            "lowerbound": 0.007421343374971209
+        },
+        "telescope": {
+            "upperbound": 0.5471795,
+            "lowerbound": 0.5471795
+        },
+        "santa": {
+            "upperbound": 0.025301784,
+            "lowerbound": 0.025301784
+        },
+        "urinal": {
+            "upperbound": 0.1362918009114133,
+            "lowerbound": 0.11010040842192008
+        },
+        "poster cutter": {
+            "upperbound": 0.06461798,
+            "lowerbound": 0.06461798
+        },
+        "rolled poster": {
+            "upperbound": 0.13719046,
+            "lowerbound": 0.11076160999999998
+        },
+        "poster printer": {
+            "upperbound": 1.4684747,
+            "lowerbound": 1.4684747
+        },
+        "swiffer": {
+            "upperbound": 0.31050759892662905,
+            "lowerbound": 0.010171796673370925
+        },
+        "toilet paper package": {
+            "upperbound": 0.07652095,
+            "lowerbound": 0.07599713999999999
+        },
+        "rug": {
+            "upperbound": 1.298460040101085,
+            "lowerbound": -0.16399574743441836
+        },
+        "ping pong table": {
+            "upperbound": 6.608452,
+            "lowerbound": 5.767168999999999
+        },
+        "chandelier": {
+            "upperbound": 0.19275013,
+            "lowerbound": 0.19275013
+        },
+        "dispenser": {
+            "upperbound": 0.052636217,
+            "lowerbound": 0.03901319
+        },
+        "stapler": {
+            "upperbound": 0.014875656000000001,
+            "lowerbound": 0.0009412709
+        },
+        "display case": {
+            "upperbound": 1.3126846001178034,
+            "lowerbound": 0.4025531998821965
+        },
+        "clothing rack": {
+            "upperbound": 1.2092549,
+            "lowerbound": 1.1647048
+        },
+        "wheel": {
+            "upperbound": 0.07672621,
+            "lowerbound": 0.07672621
+        },
+        "envelope": {
+            "upperbound": 0.026411865,
+            "lowerbound": 0.010168725999999998
+        },
+        "machine": {
+            "upperbound": 0.2196908291906241,
+            "lowerbound": 0.1249937108093759
+        },
+        "magazine rack": {
+            "upperbound": 0.16074497,
+            "lowerbound": 0.16074497
+        },
+        "keyboard piano": {
+            "upperbound": 0.4000762973851619,
+            "lowerbound": 0.031564881281504836
+        },
+        "organizer shelf": {
+            "upperbound": 0.27643603,
+            "lowerbound": 0.27643603
+        },
+        "coatrack": {
+            "upperbound": 0.20730883,
+            "lowerbound": 0.20730883
+        },
+        "instrument case": {
+            "upperbound": 0.23900811416725926,
+            "lowerbound": 0.12929644916607408
+        },
+        "boat": {
+            "upperbound": 0.09316158,
+            "lowerbound": 0.09316158
+        },
+        "cardboard": {
+            "upperbound": 0.17175842525560703,
+            "lowerbound": 0.09093140807772632
+        },
+        "teddy bear": {
+            "upperbound": 0.0303318823426144,
+            "lowerbound": 0.0172207576573856
+        },
+        "stuffed animal": {
+            "upperbound": 0.2241393771512264,
+            "lowerbound": -0.009088511551226391
+        },
+        "carpet": {
+            "upperbound": 9.176446586124534,
+            "lowerbound": 1.0884350083754653
+        },
+        "map": {
+            "upperbound": 0.6327027,
+            "lowerbound": 0.6327027
+        },
+        "chain": {
+            "upperbound": 0.20665513,
+            "lowerbound": 0.20665513
+        },
+        "electric panel": {
+            "upperbound": 0.20222612,
+            "lowerbound": 0.20222612
+        },
+        "potted plant": {
+            "upperbound": 0.37485783932784356,
+            "lowerbound": 0.11234673100548978
+        },
+        "hand rail": {
+            "upperbound": 0.005502429,
+            "lowerbound": 0.0052165617000000004
+        },
+        "massage chair": {
+            "upperbound": 1.6232598,
+            "lowerbound": 1.6232598
+        },
+        "photo": {
+            "upperbound": 0.008191516,
+            "lowerbound": 0.008191516
+        },
+        "drying rack": {
+            "upperbound": 0.9013052,
+            "lowerbound": 0.7497207
+        },
+        "water heater": {
+            "upperbound": 1.5213954,
+            "lowerbound": 0.47747081999999996
+        },
+        "laundry detergent": {
+            "upperbound": 0.020548368929761432,
+            "lowerbound": 0.0072953631845242796
+        },
+        "toiletry": {
+            "upperbound": 0.012950337,
+            "lowerbound": 0.012950337
+        },
+        "closet doorframe": {
+            "upperbound": 0.41876006,
+            "lowerbound": 0.41876006
+        },
+        "messenger bag": {
+            "upperbound": 0.07962208761419146,
+            "lowerbound": 0.028139268385808533
+        },
+        "furnace": {
+            "upperbound": 1.1669248,
+            "lowerbound": 1.1669248
+        },
+        "fuse box": {
+            "upperbound": 0.1109708,
+            "lowerbound": 0.1109708
+        },
+        "podium": {
+            "upperbound": 1.434574,
+            "lowerbound": 0.49193382
+        },
+        "frying pan": {
+            "upperbound": 0.014316043,
+            "lowerbound": 0.010819633500000002
+        },
+        "cooking pan": {
+            "upperbound": 0.006049918,
+            "lowerbound": 0.006049918
+        },
+        "ikea bag": {
+            "upperbound": 0.09748538,
+            "lowerbound": 0.09748538
+        },
+        "futon": {
+            "upperbound": 2.3492649,
+            "lowerbound": 2.3492649
+        },
+        "bear": {
+            "upperbound": 0.061185285,
+            "lowerbound": 0.061185285
+        },
+        "folder": {
+            "upperbound": 0.0025619818,
+            "lowerbound": 0.0025619818
+        },
+        "step stool": {
+            "upperbound": 0.2189371277243083,
+            "lowerbound": 0.023473794942358447
+        },
+        "briefcase": {
+            "upperbound": 0.075978145,
+            "lowerbound": 0.075978145
+        },
+        "handrail": {
+            "upperbound": 2.7412745473838007,
+            "lowerbound": -0.271242607383801
+        },
+        "grab bar": {
+            "upperbound": 0.052690316,
+            "lowerbound": 0.002319715
+        },
+        "food container": {
+            "upperbound": 0.010366603933759858,
+            "lowerbound": 0.004820858066240143
+        },
+        "closet floor": {
+            "upperbound": 0.031291142,
+            "lowerbound": 0.031291142
+        },
+        "iron": {
+            "upperbound": 0.014068604939990943,
+            "lowerbound": 0.004818033526675725
+        },
+        "railing": {
+            "upperbound": 8.918486,
+            "lowerbound": 0.517023
+        },
+        "camera": {
+            "upperbound": 0.0049588834,
+            "lowerbound": 0.0049588834
+        },
+        "traffic cone": {
+            "upperbound": 0.050780497,
+            "lowerbound": 0.031418756
+        },
+        "drum set": {
+            "upperbound": 0.33196646,
+            "lowerbound": 0.33196646
+        },
+        "painting": {
+            "upperbound": 0.2998572,
+            "lowerbound": 0.028997088000000004
+        },
+        "music book": {
+            "upperbound": 0.0637048,
+            "lowerbound": 0.042937733000000006
+        },
+        "elliptical machine": {
+            "upperbound": 2.4535637,
+            "lowerbound": 2.4535637
+        },
+        "storage box": {
+            "upperbound": 0.19033994,
+            "lowerbound": 0.19033994
+        },
+        "crib": {
+            "upperbound": 1.8654249,
+            "lowerbound": 1.8654249
+        },
+        "baby mobile": {
+            "upperbound": 1.0928836,
+            "lowerbound": 1.0928836
+        },
+        "chest": {
+            "upperbound": 0.14730236659547008,
+            "lowerbound": 0.11367536673786327
+        },
+        "diaper bin": {
+            "upperbound": 0.10015949,
+            "lowerbound": 0.10015949
+        },
+        "hand dryer": {
+            "upperbound": 0.063757345,
+            "lowerbound": 0.063757345
+        },
+        "shower control valve": {
+            "upperbound": 0.0034505051056066462,
+            "lowerbound": 0.0008986231943933531
+        },
+        "statue": {
+            "upperbound": 0.5679484,
+            "lowerbound": 0.3732384999999999
+        },
+        "easel": {
+            "upperbound": 1.4432142,
+            "lowerbound": 0.29465127000000013
+        },
+        "rack stand": {
+            "upperbound": 0.4206330074187205,
+            "lowerbound": 0.3579216059146127
+        },
+        "book rack": {
+            "upperbound": 0.44706849927906905,
+            "lowerbound": 0.3193243607209309
+        },
+        "beachball": {
+            "upperbound": 0.01808122,
+            "lowerbound": 0.01808122
+        },
+        "oven mitt": {
+            "upperbound": 0.00651496,
+            "lowerbound": 0.00651496
+        },
+        "mail tray": {
+            "upperbound": 0.51938975,
+            "lowerbound": 0.51938975
+        },
+        "shredder": {
+            "upperbound": 0.16343912,
+            "lowerbound": 0.06250208600000001
+        },
+        "kettle": {
+            "upperbound": 0.0046626204,
+            "lowerbound": 0.0046626204
+        },
+        "grocery bag": {
+            "upperbound": 0.049410574,
+            "lowerbound": 0.049410574
+        },
+        "food bag": {
+            "upperbound": 0.007923286,
+            "lowerbound": 0.007923286
+        },
+        "canopy": {
+            "upperbound": 0.28317398,
+            "lowerbound": 0.28317398
+        },
+        "duffel bag": {
+            "upperbound": 0.111808084,
+            "lowerbound": 0.06541902600000002
+        },
+        "alarm clock": {
+            "upperbound": 0.00612333916662975,
+            "lowerbound": 0.0010079707833702497
+        },
+        "night lamp": {
+            "upperbound": 0.2029403,
+            "lowerbound": 0.2029403
+        },
+        "alarm": {
+            "upperbound": 0.00047905612,
+            "lowerbound": 0.00047905612
+        },
+        "sofa bed": {
+            "upperbound": 2.3894901,
+            "lowerbound": 2.3894901
+        },
+        "doll": {
+            "upperbound": 0.030667879,
+            "lowerbound": 0.030667879
+        },
+        "desk lamp": {
+            "upperbound": 0.05651917299999999,
+            "lowerbound": 0.013219195
+        },
+        "bike lock": {
+            "upperbound": 0.0054046325,
+            "lowerbound": 0.0054046325
+        },
+        "recliner chair": {
+            "upperbound": 1.0296098,
+            "lowerbound": 1.0296098
+        },
+        "sweater": {
+            "upperbound": 0.15474316,
+            "lowerbound": 0.15474316
+        },
+        "trolley": {
+            "upperbound": 1.1471596,
+            "lowerbound": 1.1471596
+        },
+        "yoga mat": {
+            "upperbound": 0.047761697,
+            "lowerbound": 0.047761697
+        },
+        "medal": {
+            "upperbound": 0.009128695,
+            "lowerbound": 0.009128695
+        },
+        "rice cooker": {
+            "upperbound": 0.041498832,
+            "lowerbound": 0.041498832
+        },
+        "banana holder": {
+            "upperbound": 0.012193907,
+            "lowerbound": 0.012193907
+        },
+        "candle": {
+            "upperbound": 0.004288854999999999,
+            "lowerbound": 0.0039013463999999997
+        },
+        "controller": {
+            "upperbound": 0.006489205470399844,
+            "lowerbound": 0.0009980747796001547
+        },
+        "paper towel": {
+            "upperbound": 0.007859847,
+            "lowerbound": 0.007859847
+        },
+        "tea kettle": {
+            "upperbound": 0.0047717676,
+            "lowerbound": 0.0047717676
+        },
+        "cabinet door": {
+            "upperbound": 0.91201216,
+            "lowerbound": 0.07923695399999997
+        },
+        "humidifier": {
+            "upperbound": 0.06375824,
+            "lowerbound": 0.06375824
+        },
+        "tray rack": {
+            "upperbound": 0.24526905,
+            "lowerbound": 0.24526905
+        },
+        "shopping bag": {
+            "upperbound": 0.08199222,
+            "lowerbound": 0.08199222
+        },
+        "storage shelf": {
+            "upperbound": 0.24297735,
+            "lowerbound": 0.24297735
+        },
+        "mail": {
+            "upperbound": 0.009278081,
+            "lowerbound": 0.009278081
+        },
+        "headboard": {
+            "upperbound": 3.1866264,
+            "lowerbound": 3.1866264
+        },
+        "luggage": {
+            "upperbound": 0.14540086831671453,
+            "lowerbound": 0.08609287368328547
+        },
+        "trash cabinet": {
+            "upperbound": 0.7311111,
+            "lowerbound": 0.7311111
+        },
+        "quadcopter": {
+            "upperbound": 0.031057023,
+            "lowerbound": 0.031057023
+        },
+        "ipad": {
+            "upperbound": 0.0052346126,
+            "lowerbound": 0.0052346126
+        },
+        "starbucks cup": {
+            "upperbound": 0.0016918875,
+            "lowerbound": 0.0016918875
+        },
+        "scanner": {
+            "upperbound": 0.6577629,
+            "lowerbound": 0.017145805000000014
+        },
+        "bag of coffee beans": {
+            "upperbound": 0.0040069087,
+            "lowerbound": 0.0040069087
+        },
+        "cooking pot": {
+            "upperbound": 0.008671114,
+            "lowerbound": 0.006646310400000001
+        },
+        "salt": {
+            "upperbound": 0.0012264343,
+            "lowerbound": 0.0012264343
+        },
+        "carton": {
+            "upperbound": 0.0026145105,
+            "lowerbound": 0.0026145105
+        },
+        "soda stream": {
+            "upperbound": 0.009236211,
+            "lowerbound": 0.009236211
+        },
+        "can": {
+            "upperbound": 0.0035862345,
+            "lowerbound": 0.0035862345
+        },
+        "closet shelf": {
+            "upperbound": 1.0402336,
+            "lowerbound": 1.0402336
+        },
+        "dart board": {
+            "upperbound": 0.05471345,
+            "lowerbound": 0.05471345
+        },
+        "hand sanitzer dispenser": {
+            "upperbound": 0.06830087,
+            "lowerbound": 0.06830087
+        },
+        "hatrack": {
+            "upperbound": 0.40507472,
+            "lowerbound": 0.40507472
+        },
+        "treadmill": {
+            "upperbound": 7.389383459829342,
+            "lowerbound": 6.051912140170656
+        },
+        "exercise machine": {
+            "upperbound": 4.199382921764541,
+            "lowerbound": 1.247587958235459
+        },
+        "trunk": {
+            "upperbound": 0.2985941,
+            "lowerbound": 0.2985941
+        },
+        "wall mounted coat rack": {
+            "upperbound": 0.020122841,
+            "lowerbound": 0.020122841
+        },
+        "flower stand": {
+            "upperbound": 0.2833128,
+            "lowerbound": 0.2833128
+        },
+        "garbage bag": {
+            "upperbound": 0.14036243,
+            "lowerbound": 0.14036243
+        },
+        "block": {
+            "upperbound": 0.028447415451657125,
+            "lowerbound": 0.013676169348342879
+        },
+        "bunk bed": {
+            "upperbound": 6.3686604,
+            "lowerbound": 6.3686604
+        },
+        "dress rack": {
+            "upperbound": 0.6274602,
+            "lowerbound": 0.6274602
+        },
+        "display rack": {
+            "upperbound": 0.03944006,
+            "lowerbound": 0.03944006
+        },
+        "paper organizer": {
+            "upperbound": 0.027941143,
+            "lowerbound": 0.027941143
+        },
+        "frame": {
+            "upperbound": 0.0792657,
+            "lowerbound": 0.0792657
+        },
+        "changing station": {
+            "upperbound": 0.31632107,
+            "lowerbound": 0.31632107
+        },
+        "organizer": {
+            "upperbound": 0.24694839,
+            "lowerbound": 0.24694839
+        },
+        "shampoo bottle": {
+            "upperbound": 0.0034231923,
+            "lowerbound": 0.0009662080600000001
+        },
+        "conditioner bottle": {
+            "upperbound": 0.001983825,
+            "lowerbound": 0.001983825
+        },
+        "notepad": {
+            "upperbound": 0.014556218,
+            "lowerbound": 0.014556218
+        },
+        "washcloth": {
+            "upperbound": 0.002820784,
+            "lowerbound": 0.002820784
+        },
+        "slipper": {
+            "upperbound": 0.018319044,
+            "lowerbound": 0.0064383345
+        },
+        "legs": {
+            "upperbound": 0.45977297,
+            "lowerbound": 0.45977297
+        },
+        "bike pump": {
+            "upperbound": 0.03258126,
+            "lowerbound": 0.03258126
+        },
+        "mug": {
+            "upperbound": 0.005382067,
+            "lowerbound": 0.005382067
+        },
+        "flip flops": {
+            "upperbound": 0.022629658,
+            "lowerbound": 0.022629658
+        },
+        "plastic storage bin": {
+            "upperbound": 0.10865881,
+            "lowerbound": 0.10865881
+        },
+        "exercise bike": {
+            "upperbound": 0.0038922888,
+            "lowerbound": 0.0038922888
+        },
+        "hand towel": {
+            "upperbound": 0.022680566,
+            "lowerbound": 0.022680566
+        },
+        "loofa": {
+            "upperbound": 0.002954499,
+            "lowerbound": 0.002954499
+        },
+        "toy piano": {
+            "upperbound": 0.04474624,
+            "lowerbound": 0.04474624
+        },
+        "costume": {
+            "upperbound": 0.06410502,
+            "lowerbound": 0.06410502
+        },
+        "dryer sheets": {
+            "upperbound": 0.0062566637,
+            "lowerbound": 0.0062566637
+        }
+    },
+    "width_thresholds": {
+        "chain": {
+            "lowerbond": 0.3625338,
+            "upperbond": 0.3625338
+        },
+        "rod": {
+            "lowerbond": 0.03398694991900145,
+            "upperbond": 0.18143170341433187
+        },
+        "teddy bear": {
+            "lowerbond": 0.19557584401218586,
+            "upperbond": 0.3122281093211474
+        },
+        "trash can": {
+            "lowerbond": 0.23086445205595407,
+            "upperbond": 0.4764808063456686
+        },
+        "railing": {
+            "lowerbond": 0.32411860000000003,
+            "upperbond": 1.6075668
+        },
+        "elliptical machine": {
+            "lowerbond": 0.7153344,
+            "upperbond": 0.7153344
+        },
+        "chair": {
+            "lowerbond": 0.4076154879086199,
+            "upperbond": 0.7238622928001873
+        },
+        "folded ladder": {
+            "lowerbond": 0.1927669,
+            "upperbond": 0.4537747
+        },
+        "carpet": {
+            "lowerbond": 1.6537177866125141,
+            "upperbond": 4.881719133387486
+        },
+        "trolley": {
+            "lowerbond": 0.8989811,
+            "upperbond": 0.8989811
+        },
+        "windowsill": {
+            "lowerbond": 0.12824783205530743,
+            "upperbond": 1.9170277862055625
+        },
+        "tv": {
+            "lowerbond": 0.1765978253884373,
+            "upperbond": 0.6463950688177482
+        },
+        "0": {
+            "lowerbond": 2.62270845526773,
+            "upperbond": 6.087986065193373
+        },
+        "light switch": {
+            "lowerbond": 0.014443309381144735,
+            "upperbond": 0.05280826808039373
+        },
+        "mail tray": {
+            "lowerbond": 0.39356625,
+            "upperbond": 0.39356625
+        },
+        "flip flops": {
+            "lowerbond": 0.3737359,
+            "upperbond": 0.3737359
+        },
+        "wall hanging": {
+            "lowerbond": 0.27779794,
+            "upperbond": 0.32114871999999994
+        },
+        "rice cooker": {
+            "lowerbond": 0.307333,
+            "upperbond": 0.307333
+        },
+        "blanket": {
+            "lowerbond": 0.38874083249125585,
+            "upperbond": 1.2690423683087444
+        },
+        "folded chair": {
+            "lowerbond": 0.21519227496494217,
+            "upperbond": 0.6639684164636295
+        },
+        "vase": {
+            "lowerbond": 0.17168945223041418,
+            "upperbond": 0.2040943877695858
+        },
+        "kitchen apron": {
+            "lowerbond": 0.18281603,
+            "upperbond": 0.18281603
+        },
+        "fan": {
+            "lowerbond": 0.19796490670271083,
+            "upperbond": 0.4365529306306226
+        },
+        "fireplace": {
+            "lowerbond": 0.5076338541709776,
+            "upperbond": 1.2057796429718795
+        },
+        "stapler": {
+            "lowerbond": 0.063883305,
+            "upperbond": 0.27011406
+        },
+        "cable": {
+            "lowerbond": 0.03519082,
+            "upperbond": 0.03519082
+        },
+        "storage organizer": {
+            "lowerbond": 0.3685798194680002,
+            "upperbond": 0.47859935386533325
+        },
+        "closet floor": {
+            "lowerbond": 0.3152299,
+            "upperbond": 0.3152299
+        },
+        "clothes dryer": {
+            "lowerbond": 0.5114636323977023,
+            "upperbond": 2.2434663504594403
+        },
+        "cat litter box": {
+            "lowerbond": 0.59497666,
+            "upperbond": 0.59497666
+        },
+        "paper organizer": {
+            "lowerbond": 0.17641282,
+            "upperbond": 0.17641282
+        },
+        "rack": {
+            "lowerbond": 0.14031708013981747,
+            "upperbond": 0.5696392027173254
+        },
+        "clothes": {
+            "lowerbond": 0.24499961039138052,
+            "upperbond": 0.536462220667443
+        },
+        "trash bag": {
+            "lowerbond": 0.40048718,
+            "upperbond": 0.40048718
+        },
+        "clothes hanger": {
+            "lowerbond": 0.1140102036708171,
+            "upperbond": 0.2904724458291829
+        },
+        "bicycle": {
+            "lowerbond": 0.5259556697795889,
+            "upperbond": 0.9699060613315222
+        },
+        "grocery bag": {
+            "lowerbond": 0.34228706,
+            "upperbond": 0.34228706
+        },
+        "hanging": {
+            "lowerbond": 0.14492562525082645,
+            "upperbond": 0.30569566141584015
+        },
+        "sign": {
+            "lowerbond": 0.08634305116235064,
+            "upperbond": 0.22097323433764937
+        },
+        "power strip": {
+            "lowerbond": 0.13403136048787548,
+            "upperbond": 0.19867345151212448
+        },
+        "hamper": {
+            "lowerbond": 0.27764300136594106,
+            "upperbond": 0.48285022863405896
+        },
+        "water pitcher": {
+            "lowerbond": 0.13106982517607957,
+            "upperbond": 0.21376630815725384
+        },
+        "clock": {
+            "lowerbond": 0.06734909562054664,
+            "upperbond": 0.18644972921278669
+        },
+        "shampoo bottle": {
+            "lowerbond": 0.07813214999999998,
+            "upperbond": 0.117057204
+        },
+        "stool": {
+            "lowerbond": 0.3314746520025295,
+            "upperbond": 0.5094207673658915
+        },
+        "soap bottle": {
+            "lowerbond": 0.04995859370997088,
+            "upperbond": 0.08905938762336243
+        },
+        "pantry shelf": {
+            "lowerbond": 0.51172495,
+            "upperbond": 0.51172495
+        },
+        "hand sanitzer dispenser": {
+            "lowerbond": 0.22136784,
+            "upperbond": 0.22136784
+        },
+        "banister": {
+            "lowerbond": 0.8995118,
+            "upperbond": 0.8995118
+        },
+        "doorframe": {
+            "lowerbond": 0.14758927761294027,
+            "upperbond": 0.596539521775295
+        },
+        "dustpan": {
+            "lowerbond": 0.19363860123004162,
+            "upperbond": 0.3273360867699584
+        },
+        "food container": {
+            "lowerbond": 0.1166712712713863,
+            "upperbond": 0.21029358206194707
+        },
+        "sink": {
+            "lowerbond": 0.3492372798312606,
+            "upperbond": 0.6130456050989719
+        },
+        "trunk": {
+            "lowerbond": 0.52309763,
+            "upperbond": 0.52309763
+        },
+        "cardboard": {
+            "lowerbond": 0.1515119631194314,
+            "upperbond": 0.4264133035472353
+        },
+        "box": {
+            "lowerbond": 0.22282561439278495,
+            "upperbond": 0.5187448142315244
+        },
+        "coffee box": {
+            "lowerbond": 0.22901308999999997,
+            "upperbond": 0.2489345
+        },
+        "luggage": {
+            "lowerbond": 0.39396578253245895,
+            "upperbond": 0.528872667467541
+        },
+        "pillow": {
+            "lowerbond": 0.3012178852155719,
+            "upperbond": 0.5767258233086999
+        },
+        "wet floor sign": {
+            "lowerbond": 0.1399579,
+            "upperbond": 0.18395662
+        },
+        "messenger bag": {
+            "lowerbond": 0.2881804610509108,
+            "upperbond": 0.468440985615756
+        },
+        "beachball": {
+            "lowerbond": 0.26335335,
+            "upperbond": 0.26335335
+        },
+        "projector": {
+            "lowerbond": 0.2924059533221659,
+            "upperbond": 0.5396359266778341
+        },
+        "baby mobile": {
+            "lowerbond": 0.9092405,
+            "upperbond": 0.9092405
+        },
+        "sweater": {
+            "lowerbond": 0.37591672,
+            "upperbond": 0.37591672
+        },
+        "office chair": {
+            "lowerbond": 0.47746307256628406,
+            "upperbond": 0.7129431872491006
+        },
+        "bag of coffee beans": {
+            "lowerbond": 0.10203457,
+            "upperbond": 0.10203457
+        },
+        "hand towel": {
+            "lowerbond": 0.17455435,
+            "upperbond": 0.17455435
+        },
+        "door": {
+            "lowerbond": 0.1385395858063351,
+            "upperbond": 0.5901361400751465
+        },
+        "envelope": {
+            "lowerbond": 0.11298501500000002,
+            "upperbond": 0.42812788
+        },
+        "faucet": {
+            "lowerbond": 0.11291749586091376,
+            "upperbond": 0.6373872321390863
+        },
+        "futon": {
+            "lowerbond": 1.2964885,
+            "upperbond": 1.2964885
+        },
+        "flag": {
+            "lowerbond": 0.22206521,
+            "upperbond": 0.22206521
+        },
+        "sliding wood door": {
+            "lowerbond": 0.09342670399999997,
+            "upperbond": 0.53183365
+        },
+        "dryer sheets": {
+            "lowerbond": 0.21173406,
+            "upperbond": 0.21173406
+        },
+        "paper towel roll": {
+            "lowerbond": 0.10540657400072675,
+            "upperbond": 0.19995806349927323
+        },
+        "folder": {
+            "lowerbond": 0.33582592,
+            "upperbond": 0.33582592
+        },
+        "ping pong table": {
+            "lowerbond": 2.1469676,
+            "upperbond": 2.6828649999999996
+        },
+        "car": {
+            "lowerbond": 1.9512084999999997,
+            "upperbond": 2.1017209999999995
+        },
+        "pantry wall": {
+            "lowerbond": 0.18615766508387172,
+            "upperbond": 0.5594694669161282
+        },
+        "pool table": {
+            "lowerbond": 1.930923258214583,
+            "upperbond": 2.3804098084520833
+        },
+        "breakfast bar": {
+            "lowerbond": 0.8388187864905751,
+            "upperbond": 1.3081837435094248
+        },
+        "covered box": {
+            "lowerbond": 0.67362523,
+            "upperbond": 0.67362523
+        },
+        "can": {
+            "lowerbond": 0.11855817,
+            "upperbond": 0.11855817
+        },
+        "paper towel": {
+            "lowerbond": 0.15438318,
+            "upperbond": 0.15438318
+        },
+        "plunger": {
+            "lowerbond": 0.06876126535939397,
+            "upperbond": 0.15633520827696964
+        },
+        "shower curtain": {
+            "lowerbond": 0.192537712779114,
+            "upperbond": 0.46223952277644176
+        },
+        "dress rack": {
+            "lowerbond": 0.70364857,
+            "upperbond": 0.70364857
+        },
+        "whiteboard eraser": {
+            "lowerbond": 0.05265477322182688,
+            "upperbond": 0.0952241947781731
+        },
+        "tap": {
+            "lowerbond": 0.064389706,
+            "upperbond": 0.064389706
+        },
+        "plate": {
+            "lowerbond": 0.18801534625152444,
+            "upperbond": 0.2982546666056184
+        },
+        "round table": {
+            "lowerbond": 0.6902475898771384,
+            "upperbond": 1.1086171967895282
+        },
+        "drawer": {
+            "lowerbond": 0.2908502830863783,
+            "upperbond": 1.9508423609136218
+        },
+        "pizza box": {
+            "lowerbond": 0.30583477,
+            "upperbond": 0.30583477
+        },
+        "tray rack": {
+            "lowerbond": 0.5066376,
+            "upperbond": 0.5066376
+        },
+        "airplane": {
+            "lowerbond": 0.2710476,
+            "upperbond": 0.34039497
+        },
+        "organizer": {
+            "lowerbond": 0.35850573,
+            "upperbond": 0.35850573
+        },
+        "toaster oven": {
+            "lowerbond": 0.33228250419215083,
+            "upperbond": 0.4504999991411825
+        },
+        "machine": {
+            "lowerbond": 0.3131668052869465,
+            "upperbond": 0.43257233804638695
+        },
+        "end table": {
+            "lowerbond": 0.45482546531061946,
+            "upperbond": 0.7574702011409933
+        },
+        "frying pan": {
+            "lowerbond": 0.28656924000000006,
+            "upperbond": 0.32098985
+        },
+        "battery disposal jar": {
+            "lowerbond": 0.13601041,
+            "upperbond": 0.13601041
+        },
+        "furnace": {
+            "lowerbond": 0.76117134,
+            "upperbond": 0.76117134
+        },
+        "divider": {
+            "lowerbond": 0.28053561871009974,
+            "upperbond": 0.9079080435121225
+        },
+        "map": {
+            "lowerbond": 0.4456601,
+            "upperbond": 0.4456601
+        },
+        "plant": {
+            "lowerbond": 0.19309323468946013,
+            "upperbond": 0.6658123536976365
+        },
+        "briefcase": {
+            "lowerbond": 0.5501318,
+            "upperbond": 0.5501318
+        },
+        "water bottle": {
+            "lowerbond": 0.07615888259188178,
+            "upperbond": 0.19895984597954677
+        },
+        "soap dispenser": {
+            "lowerbond": 0.09578821110579552,
+            "upperbond": 0.1575927648942045
+        },
+        "ball": {
+            "lowerbond": 0.1693422118460985,
+            "upperbond": 0.44037253025916473
+        },
+        "diaper bin": {
+            "lowerbond": 0.4123659,
+            "upperbond": 0.4123659
+        },
+        "toilet paper": {
+            "lowerbond": 0.09147677875657671,
+            "upperbond": 0.16603152917784958
+        },
+        "sofa chair": {
+            "lowerbond": 0.7657775435364025,
+            "upperbond": 1.0884877052355273
+        },
+        "tea kettle": {
+            "lowerbond": 0.13812256,
+            "upperbond": 0.13812256
+        },
+        "light": {
+            "lowerbond": 0.07042141853544961,
+            "upperbond": 0.4027291750743064
+        },
+        "counter": {
+            "lowerbond": 0.5710730166209269,
+            "upperbond": 1.9789446174175342
+        },
+        "magazine rack": {
+            "lowerbond": 0.22494483,
+            "upperbond": 0.22494483
+        },
+        "switch": {
+            "lowerbond": 0.09048557,
+            "upperbond": 0.09048557
+        },
+        "basket": {
+            "lowerbond": 0.1331438443819875,
+            "upperbond": 0.35122910484878167
+        },
+        "luggage stand": {
+            "lowerbond": 0.09979844000000002,
+            "upperbond": 0.5267931
+        },
+        "music book": {
+            "lowerbond": 0.24075602999999998,
+            "upperbond": 0.44027423999999993
+        },
+        "power outlet": {
+            "lowerbond": 0.019204779447511235,
+            "upperbond": 0.08949814946157969
+        },
+        "water fountain": {
+            "lowerbond": 0.3890936692271185,
+            "upperbond": 0.5552024987728814
+        },
+        "yoga mat": {
+            "lowerbond": 0.4186015,
+            "upperbond": 0.4186015
+        },
+        "paper": {
+            "lowerbond": 0.2026410675078686,
+            "upperbond": 0.4342962850305929
+        },
+        "costume": {
+            "lowerbond": 0.27410674,
+            "upperbond": 0.27410674
+        },
+        "oven": {
+            "lowerbond": 0.11621661408338108,
+            "upperbond": 0.5503548216309044
+        },
+        "keyboard": {
+            "lowerbond": 0.2176440590941874,
+            "upperbond": 0.3818548725872285
+        },
+        "dart board": {
+            "lowerbond": 0.31390524,
+            "upperbond": 0.31390524
+        },
+        "laundry detergent": {
+            "lowerbond": 0.14179359471934283,
+            "upperbond": 0.2377765824235143
+        },
+        "storage bin": {
+            "lowerbond": 0.27055678322020654,
+            "upperbond": 0.4826818216282785
+        },
+        "monitor": {
+            "lowerbond": 0.18458725231398676,
+            "upperbond": 0.3995489464994689
+        },
+        "bathroom vanity": {
+            "lowerbond": 0.5330332415758687,
+            "upperbond": 0.8894493431698938
+        },
+        "backpack": {
+            "lowerbond": 0.3313663110429599,
+            "upperbond": 0.4584964200123164
+        },
+        "lamp": {
+            "lowerbond": 0.1992575232892999,
+            "upperbond": 0.3939567651400194
+        },
+        "mattress": {
+            "lowerbond": 0.751847786334385,
+            "upperbond": 1.686038709665615
+        },
+        "window": {
+            "lowerbond": 0.07987428931916918,
+            "upperbond": 1.2690325335665449
+        },
+        "dolly": {
+            "lowerbond": 0.3686535300040805,
+            "upperbond": 0.5066339499959195
+        },
+        "mail": {
+            "lowerbond": 0.28511763,
+            "upperbond": 0.28511763
+        },
+        "carton": {
+            "lowerbond": 0.10318828,
+            "upperbond": 0.10318828
+        },
+        "toiletry": {
+            "lowerbond": 0.2043016,
+            "upperbond": 0.2043016
+        },
+        "headboard": {
+            "lowerbond": 0.98355305,
+            "upperbond": 0.98355305
+        },
+        "easel": {
+            "lowerbond": 0.43585014,
+            "upperbond": 0.8431802
+        },
+        "footstool": {
+            "lowerbond": 0.22505416641896744,
+            "upperbond": 0.5395376812476991
+        },
+        "flower stand": {
+            "lowerbond": 0.50274324,
+            "upperbond": 0.50274324
+        },
+        "storage shelf": {
+            "lowerbond": 0.50579,
+            "upperbond": 0.50579
+        },
+        "garbage bag": {
+            "lowerbond": 0.4570024,
+            "upperbond": 0.4570024
+        },
+        "laundry hamper": {
+            "lowerbond": 0.39852860244021515,
+            "upperbond": 0.522061951845499
+        },
+        "tray": {
+            "lowerbond": 0.27321019551649883,
+            "upperbond": 0.5066294660219628
+        },
+        "ironing board": {
+            "lowerbond": 0.021825998813457925,
+            "upperbond": 0.6144610154722563
+        },
+        "closet shelf": {
+            "lowerbond": 0.45755184,
+            "upperbond": 0.45755184
+        },
+        "telescope": {
+            "lowerbond": 0.58506346,
+            "upperbond": 0.58506346
+        },
+        "globe": {
+            "lowerbond": 0.18916775926119486,
+            "upperbond": 0.5757586740721384
+        },
+        "stair rail": {
+            "lowerbond": 0.01821533253381069,
+            "upperbond": 1.3879546093328559
+        },
+        "food bag": {
+            "lowerbond": 0.115133286,
+            "upperbond": 0.115133286
+        },
+        "spray bottle": {
+            "lowerbond": 0.09928130999999998,
+            "upperbond": 0.11306858
+        },
+        "night lamp": {
+            "lowerbond": 0.48892194,
+            "upperbond": 0.48892194
+        },
+        "mat": {
+            "lowerbond": 0.31269634456659334,
+            "upperbond": 0.7266749185103298
+        },
+        "container": {
+            "lowerbond": 0.20831102019958983,
+            "upperbond": 0.45946178588736686
+        },
+        "file cabinet": {
+            "lowerbond": 0.2855088768340809,
+            "upperbond": 0.6944641982795554
+        },
+        "elevator button": {
+            "lowerbond": 0.06668043,
+            "upperbond": 0.06668043
+        },
+        "ladder": {
+            "lowerbond": 0.2997981651719839,
+            "upperbond": 0.6355875628280162
+        },
+        "loofa": {
+            "lowerbond": 0.10770178,
+            "upperbond": 0.10770178
+        },
+        "umbrella": {
+            "lowerbond": 0.14310235999999998,
+            "upperbond": 0.22349964
+        },
+        "cart": {
+            "lowerbond": 0.48420572439091203,
+            "upperbond": 0.8638157125321647
+        },
+        "keyboard piano": {
+            "lowerbond": 0.48391070206553344,
+            "upperbond": 0.8774454446011334
+        },
+        "drying rack": {
+            "lowerbond": 0.8880434,
+            "upperbond": 0.88840055
+        },
+        "card": {
+            "lowerbond": 0.05936074300000001,
+            "upperbond": 0.096063614
+        },
+        "dishwasher": {
+            "lowerbond": 0.11682840777406733,
+            "upperbond": 0.3219444031259327
+        },
+        "step stool": {
+            "lowerbond": 0.37322261113642674,
+            "upperbond": 0.5190421088635734
+        },
+        "headphones": {
+            "lowerbond": 0.11994380856953853,
+            "upperbond": 0.2618157394304615
+        },
+        "foosball table": {
+            "lowerbond": 1.2789850130227998,
+            "upperbond": 1.4723647069772001
+        },
+        "dumbbell": {
+            "lowerbond": 0.12919622289385754,
+            "upperbond": 0.2721717078204282
+        },
+        "toilet paper dispenser": {
+            "lowerbond": 0.12670656095327584,
+            "upperbond": 0.2370046144313395
+        },
+        "compost bin": {
+            "lowerbond": 0.25654304548531753,
+            "upperbond": 0.3372145878480158
+        },
+        "sofa bed": {
+            "lowerbond": 1.244873,
+            "upperbond": 1.244873
+        },
+        "urinal": {
+            "lowerbond": 0.3561542401051944,
+            "upperbond": 0.3802913465614723
+        },
+        "crib": {
+            "lowerbond": 1.2868698,
+            "upperbond": 1.2868698
+        },
+        "slipper": {
+            "lowerbond": 0.31467366,
+            "upperbond": 0.36021423
+        },
+        "lunch box": {
+            "lowerbond": 0.40487576,
+            "upperbond": 0.40487576
+        },
+        "plastic bin": {
+            "lowerbond": 0.46334636,
+            "upperbond": 0.46334636
+        },
+        "starbucks cup": {
+            "lowerbond": 0.1178236,
+            "upperbond": 0.1178236
+        },
+        "elevator": {
+            "lowerbond": 0.19703317,
+            "upperbond": 0.4864338
+        },
+        "blinds": {
+            "lowerbond": -0.026480194056039297,
+            "upperbond": 2.222253890419675
+        },
+        "bathroom stall door": {
+            "lowerbond": 0.11612790615856874,
+            "upperbond": 0.3831607408043942
+        },
+        "banana holder": {
+            "lowerbond": 0.1978364,
+            "upperbond": 0.1978364
+        },
+        "legs": {
+            "lowerbond": 0.5523053,
+            "upperbond": 0.5523053
+        },
+        "ceiling": {
+            "lowerbond": 0.33162842086015054,
+            "upperbond": 3.332524338032157
+        },
+        "shorts": {
+            "lowerbond": 0.13735532999999997,
+            "upperbond": 0.4082743999999999
+        },
+        "shelf": {
+            "lowerbond": 0.28094160181676814,
+            "upperbond": 1.0040875767448758
+        },
+        "wardrobe": {
+            "lowerbond": 0.41197529764114565,
+            "upperbond": 1.157749323128085
+        },
+        "hand dryer": {
+            "lowerbond": 0.28676462,
+            "upperbond": 0.28676462
+        },
+        "stairs": {
+            "lowerbond": 0.820406574114274,
+            "upperbond": 1.5561952818857256
+        },
+        "loft bed": {
+            "lowerbond": 2.2070608,
+            "upperbond": 3.0816317
+        },
+        "ipad": {
+            "lowerbond": 0.2805102,
+            "upperbond": 0.2805102
+        },
+        "shopping bag": {
+            "lowerbond": 0.32563984,
+            "upperbond": 0.32563984
+        },
+        "shampoo": {
+            "lowerbond": 0.08196616,
+            "upperbond": 0.08881879
+        },
+        "bed": {
+            "lowerbond": 1.3490998330561053,
+            "upperbond": 2.2660444187859996
+        },
+        "display rack": {
+            "lowerbond": 0.14508897,
+            "upperbond": 0.14508897
+        },
+        "shower": {
+            "lowerbond": 0.6518818597440876,
+            "upperbond": 1.222800243589246
+        },
+        "iron": {
+            "lowerbond": 0.1280564073092457,
+            "upperbond": 0.18062163269075435
+        },
+        "coat": {
+            "lowerbond": 0.2836330645199262,
+            "upperbond": 0.3418779021467404
+        },
+        "dispenser": {
+            "lowerbond": 0.13308951,
+            "upperbond": 0.16387558
+        },
+        "laundry basket": {
+            "lowerbond": 0.46926757799551916,
+            "upperbond": 0.6146563927737116
+        },
+        "storage container": {
+            "lowerbond": 0.15095153263690667,
+            "upperbond": 0.4294146015297601
+        },
+        "beanbag chair": {
+            "lowerbond": 0.77217746,
+            "upperbond": 0.8393638000000001
+        },
+        "drum set": {
+            "lowerbond": 0.6471305,
+            "upperbond": 0.6471305
+        },
+        "shower wall": {
+            "lowerbond": 0.5956243944666664,
+            "upperbond": 1.3384303583904764
+        },
+        "wall mounted coat rack": {
+            "lowerbond": 0.097768545,
+            "upperbond": 0.097768545
+        },
+        "closet wall": {
+            "lowerbond": 0.09766359140357983,
+            "upperbond": 0.7654937501258319
+        },
+        "couch": {
+            "lowerbond": 0.883091212458935,
+            "upperbond": 1.8742558907445288
+        },
+        "ceiling light": {
+            "lowerbond": 0.01262515864621827,
+            "upperbond": 0.8388526432585437
+        },
+        "chest": {
+            "lowerbond": 0.3586869654748198,
+            "upperbond": 0.6236284211918468
+        },
+        "soap": {
+            "lowerbond": -0.15765304499982757,
+            "upperbond": 0.9597625961998276
+        },
+        "printer": {
+            "lowerbond": 0.37651420005040104,
+            "upperbond": 0.574062669949599
+        },
+        "vacuum cleaner": {
+            "lowerbond": 0.2959725467995707,
+            "upperbond": 0.4530567732004293
+        },
+        "object": {
+            "lowerbond": 0.08848532892823205,
+            "upperbond": 0.3811637810579749
+        },
+        "medal": {
+            "lowerbond": 0.10368681,
+            "upperbond": 0.10368681
+        },
+        "refrigerator": {
+            "lowerbond": 0.3896099608846314,
+            "upperbond": 0.8585214602264796
+        },
+        "folded table": {
+            "lowerbond": 0.19126496577078028,
+            "upperbond": 0.8285760582292196
+        },
+        "cloth": {
+            "lowerbond": 0.15754241131742858,
+            "upperbond": 0.4769571836825715
+        },
+        "coatrack": {
+            "lowerbond": 0.28470755,
+            "upperbond": 0.28470755
+        },
+        "alarm": {
+            "lowerbond": 0.057537198,
+            "upperbond": 0.057537198
+        },
+        "stuffed animal": {
+            "lowerbond": 0.20712870699742725,
+            "upperbond": 0.7821508410025728
+        },
+        "pipe": {
+            "lowerbond": -0.17139692204540413,
+            "upperbond": 1.5562668114898486
+        },
+        "bike lock": {
+            "lowerbond": 0.19463253,
+            "upperbond": 0.19463253
+        },
+        "painting": {
+            "lowerbond": 0.10461306599999999,
+            "upperbond": 0.27536547
+        },
+        "knife block": {
+            "lowerbond": 0.22132576,
+            "upperbond": 0.22132576
+        },
+        "washcloth": {
+            "lowerbond": 0.20108771,
+            "upperbond": 0.20108771
+        },
+        "ceiling fan": {
+            "lowerbond": 0.5922265285776431,
+            "upperbond": 1.115562171422357
+        },
+        "stove": {
+            "lowerbond": 0.7076342473101277,
+            "upperbond": 0.9143162573052569
+        },
+        "crate": {
+            "lowerbond": 0.31251467044666426,
+            "upperbond": 0.6113755975533356
+        },
+        "chandelier": {
+            "lowerbond": 0.559412,
+            "upperbond": 0.559412
+        },
+        "cabinet door": {
+            "lowerbond": 0.102696,
+            "upperbond": 0.35227823
+        },
+        "shoe": {
+            "lowerbond": 0.22310800879154688,
+            "upperbond": 0.34977906288845306
+        },
+        "ottoman": {
+            "lowerbond": 0.5268737574674655,
+            "upperbond": 0.8582612894556113
+        },
+        "air hockey table": {
+            "lowerbond": 1.0133324,
+            "upperbond": 1.0133324
+        },
+        "roomba": {
+            "lowerbond": 0.35334778,
+            "upperbond": 0.35334778
+        },
+        "exercise machine": {
+            "lowerbond": 0.9369256530681787,
+            "upperbond": 1.4374829869318213
+        },
+        "tire": {
+            "lowerbond": 0.2104025881935602,
+            "upperbond": 0.38328959180643973
+        },
+        "toilet paper holder": {
+            "lowerbond": 0.14833696338471697,
+            "upperbond": 0.2049570332819497
+        },
+        "jar": {
+            "lowerbond": 0.1594064919049335,
+            "upperbond": 0.2280037330950665
+        },
+        "tv stand": {
+            "lowerbond": 0.5245817202436494,
+            "upperbond": 1.0491644823650463
+        },
+        "wood": {
+            "lowerbond": 0.9974516599999999,
+            "upperbond": 1.0521693
+        },
+        "tape": {
+            "lowerbond": 0.19010961,
+            "upperbond": 0.19010961
+        },
+        "piano": {
+            "lowerbond": 0.650971097314381,
+            "upperbond": 1.5188725915745078
+        },
+        "poster tube": {
+            "lowerbond": 0.18649578,
+            "upperbond": 0.24159887000000002
+        },
+        "trash bin": {
+            "lowerbond": 0.15813508599554588,
+            "upperbond": 0.4694549358226358
+        },
+        "toilet seat cover dispenser": {
+            "lowerbond": 0.06044233374594242,
+            "upperbond": 0.19631362552678483
+        },
+        "bear": {
+            "lowerbond": 0.31712043,
+            "upperbond": 0.31712043
+        },
+        "cooking pot": {
+            "lowerbond": 0.20037686999999998,
+            "upperbond": 0.28697455
+        },
+        "cushion": {
+            "lowerbond": 0.37711345068868973,
+            "upperbond": 1.5777061118113103
+        },
+        "toolbox": {
+            "lowerbond": 0.23425391672833062,
+            "upperbond": 0.36390590993833605
+        },
+        "banner": {
+            "lowerbond": 0.31222506295026853,
+            "upperbond": 0.5039799570497314
+        },
+        "footrest": {
+            "lowerbond": 0.44545111787286473,
+            "upperbond": 0.6963725021271353
+        },
+        "mini fridge": {
+            "lowerbond": 0.33752469612418634,
+            "upperbond": 0.6645896044818743
+        },
+        "organizer shelf": {
+            "lowerbond": 0.41579318,
+            "upperbond": 0.41579318
+        },
+        "bar": {
+            "lowerbond": 0.05751709356222942,
+            "upperbond": 0.3307543048377706
+        },
+        "fuse box": {
+            "lowerbond": 0.296785,
+            "upperbond": 0.296785
+        },
+        "kitchen cabinet": {
+            "lowerbond": 0.14950474709360717,
+            "upperbond": 0.9115488679213181
+        },
+        "bag": {
+            "lowerbond": 0.1985219678577168,
+            "upperbond": 0.4138084053579695
+        },
+        "toy piano": {
+            "lowerbond": 0.25463766,
+            "upperbond": 0.25463766
+        },
+        "workbench": {
+            "lowerbond": 1.0436845,
+            "upperbond": 1.0436845
+        },
+        "computer tower": {
+            "lowerbond": 0.22768234287595684,
+            "upperbond": 0.42573006029477495
+        },
+        "massage chair": {
+            "lowerbond": 0.9990833,
+            "upperbond": 0.9990833
+        },
+        "bucket": {
+            "lowerbond": 0.26625748852953374,
+            "upperbond": 0.3428141627748141
+        },
+        "frame": {
+            "lowerbond": 0.62232876,
+            "upperbond": 0.62232876
+        },
+        "seat": {
+            "lowerbond": 0.3562673389628038,
+            "upperbond": 0.7901984244657675
+        },
+        "sewing machine": {
+            "lowerbond": 0.31324577,
+            "upperbond": 0.32683277
+        },
+        "calendar": {
+            "lowerbond": 0.05996403277301494,
+            "upperbond": 0.16502736022698505
+        },
+        "golf bag": {
+            "lowerbond": 0.37772393,
+            "upperbond": 0.391994
+        },
+        "carseat": {
+            "lowerbond": 0.58638704,
+            "upperbond": 0.6959755400000001
+        },
+        "closet": {
+            "lowerbond": 0.4005677924700075,
+            "upperbond": 1.241457312063326
+        },
+        "traffic cone": {
+            "lowerbond": 0.26744252,
+            "upperbond": 0.31959247999999996
+        },
+        "rolled poster": {
+            "lowerbond": 0.31420255,
+            "upperbond": 0.4953753
+        },
+        "mug": {
+            "lowerbond": 0.17652512,
+            "upperbond": 0.17652512
+        },
+        "mouthwash bottle": {
+            "lowerbond": 0.08651638,
+            "upperbond": 0.08651638
+        },
+        "toy dinosaur": {
+            "lowerbond": 0.20982122,
+            "upperbond": 0.20982122
+        },
+        "cooking pan": {
+            "lowerbond": 0.29452395,
+            "upperbond": 0.29452395
+        },
+        "pants": {
+            "lowerbond": 0.3321445,
+            "upperbond": 0.43450785
+        },
+        "dish rack": {
+            "lowerbond": 0.32877348860185357,
+            "upperbond": 0.5206589085410036
+        },
+        "cutting board": {
+            "lowerbond": 0.13056311327786588,
+            "upperbond": 0.3531671707221342
+        },
+        "screen": {
+            "lowerbond": 0.4219077,
+            "upperbond": 1.607854
+        },
+        "suitcase": {
+            "lowerbond": 0.3282987296897528,
+            "upperbond": 0.7089047738999907
+        },
+        "mailbox": {
+            "lowerbond": 0.42746290385845886,
+            "upperbond": 1.6360530183637634
+        },
+        "guitar": {
+            "lowerbond": 0.3037824525449051,
+            "upperbond": 0.5123971941217615
+        },
+        "grab bar": {
+            "lowerbond": 0.08695292500000001,
+            "upperbond": 0.3346591
+        },
+        "hand rail": {
+            "lowerbond": 0.08437803,
+            "upperbond": 0.098555446
+        },
+        "kitchen mixer": {
+            "lowerbond": 0.25214761,
+            "upperbond": 0.25214761
+        },
+        "fire extinguisher": {
+            "lowerbond": 0.11370702766066282,
+            "upperbond": 0.17290281000600388
+        },
+        "shower door": {
+            "lowerbond": 0.11343299370777787,
+            "upperbond": 0.4093049307366666
+        },
+        "soda stream": {
+            "lowerbond": 0.1369363,
+            "upperbond": 0.1369363
+        },
+        "water cooler": {
+            "lowerbond": 0.3563504974439905,
+            "upperbond": 0.43724661055600955
+        },
+        "clothing rack": {
+            "lowerbond": 0.6807442000000001,
+            "upperbond": 0.68156314
+        },
+        "studio light": {
+            "lowerbond": 0.31730615827278796,
+            "upperbond": 0.396067981727212
+        },
+        "canopy": {
+            "lowerbond": 0.8290088,
+            "upperbond": 0.8290088
+        },
+        "broom": {
+            "lowerbond": 0.1610979555596334,
+            "upperbond": 0.3076299569403666
+        },
+        "vent": {
+            "lowerbond": -0.08052134840633857,
+            "upperbond": 0.6753426150730053
+        },
+        "toilet": {
+            "lowerbond": 0.4230564749626212,
+            "upperbond": 0.5952425768892305
+        },
+        "wall": {
+            "lowerbond": -0.07507720481259483,
+            "upperbond": 1.5012187952681773
+        },
+        "armchair": {
+            "lowerbond": 0.7186303585094503,
+            "upperbond": 1.0670704396402098
+        },
+        "pot": {
+            "lowerbond": 0.18291575434584356,
+            "upperbond": 0.29167223898748973
+        },
+        "closet door": {
+            "lowerbond": 0.11026930279582564,
+            "upperbond": 0.5706094001416742
+        },
+        "dishwashing soap bottle": {
+            "lowerbond": 0.089707315,
+            "upperbond": 0.089707315
+        },
+        "garage door": {
+            "lowerbond": 0.15794051999999997,
+            "upperbond": 0.99181724
+        },
+        "table": {
+            "lowerbond": 0.4694085528196841,
+            "upperbond": 1.9846241897749104
+        },
+        "boat": {
+            "lowerbond": 0.2765754,
+            "upperbond": 0.2765754
+        },
+        "recycling bin": {
+            "lowerbond": 0.2860522813059125,
+            "upperbond": 0.4615138899706834
+        },
+        "toothpaste": {
+            "lowerbond": 0.08439636,
+            "upperbond": 0.15199482
+        },
+        "copier": {
+            "lowerbond": 0.6263193576446067,
+            "upperbond": 1.0289884726411078
+        },
+        "curtain": {
+            "lowerbond": 0.23658062134715646,
+            "upperbond": 1.0981127905706516
+        },
+        "bathroom stall": {
+            "lowerbond": 0.5291582636167309,
+            "upperbond": 1.5603111157582692
+        },
+        "oven mitt": {
+            "lowerbond": 0.11755514,
+            "upperbond": 0.11755514
+        },
+        "exercise bike": {
+            "lowerbond": 0.08611941,
+            "upperbond": 0.08611941
+        },
+        "handicap bar": {
+            "lowerbond": 0.10235571514720122,
+            "upperbond": 0.23739117835279883
+        },
+        "controller": {
+            "lowerbond": 0.1208587903311546,
+            "upperbond": 0.18622112466884538
+        },
+        "coffee table": {
+            "lowerbond": 0.6049205927935655,
+            "upperbond": 1.132339884771652
+        },
+        "teapot": {
+            "lowerbond": 0.22929227,
+            "upperbond": 0.22929227
+        },
+        "poster cutter": {
+            "lowerbond": 0.49966866,
+            "upperbond": 0.49966866
+        },
+        "case": {
+            "lowerbond": 0.39372536019258286,
+            "upperbond": 0.47194747980741714
+        },
+        "tank": {
+            "lowerbond": 0.323277,
+            "upperbond": 0.323277
+        },
+        "rope": {
+            "lowerbond": 0.23785018999999996,
+            "upperbond": 0.5994545
+        },
+        "barricade": {
+            "lowerbond": 1.0124755,
+            "upperbond": 1.0124755
+        },
+        "bathtub": {
+            "lowerbond": 0.6826377883494484,
+            "upperbond": 1.2411599564781377
+        },
+        "handrail": {
+            "lowerbond": -0.02636575117214429,
+            "upperbond": 0.9908088645054776
+        },
+        "sticker": {
+            "lowerbond": 0.049041986,
+            "upperbond": 0.049041986
+        },
+        "closet ceiling": {
+            "lowerbond": 0.37075583096816933,
+            "upperbond": 1.456571322365164
+        },
+        "purse": {
+            "lowerbond": 0.16991798730696306,
+            "upperbond": 0.3413879733597036
+        },
+        "telephone": {
+            "lowerbond": 0.12627802363522905,
+            "upperbond": 0.2902360248790566
+        },
+        "decoration": {
+            "lowerbond": 0.07519400542001448,
+            "upperbond": 0.38808754373788024
+        },
+        "exit sign": {
+            "lowerbond": 0.15753110110683707,
+            "upperbond": 0.3159160722264963
+        },
+        "nightstand": {
+            "lowerbond": 0.44455135245462085,
+            "upperbond": 0.6618513825991424
+        },
+        "towel rack": {
+            "lowerbond": 0.051145185,
+            "upperbond": 0.051145185
+        },
+        "mouse": {
+            "lowerbond": -0.04521611808762138,
+            "upperbond": 0.3227501819137083
+        },
+        "helmet": {
+            "lowerbond": 0.23187239145161245,
+            "upperbond": 0.24936915521505423
+        },
+        "plastic container": {
+            "lowerbond": 0.38275754,
+            "upperbond": 0.43188858
+        },
+        "shirt": {
+            "lowerbond": 0.1284251807905944,
+            "upperbond": 0.3087050625427389
+        },
+        "vending machine": {
+            "lowerbond": 0.6461532409696271,
+            "upperbond": 0.9593412510303725
+        },
+        "toaster": {
+            "lowerbond": 0.1651785989744688,
+            "upperbond": 0.25497766673981687
+        },
+        "bowl": {
+            "lowerbond": 0.18219358227406823,
+            "upperbond": 0.29204841572593176
+        },
+        "poster printer": {
+            "lowerbond": 0.83846664,
+            "upperbond": 0.83846664
+        },
+        "speaker": {
+            "lowerbond": 0.21462322659031657,
+            "upperbond": 0.4039005117430167
+        },
+        "wheel": {
+            "lowerbond": 0.49618673,
+            "upperbond": 0.49618673
+        },
+        "recliner chair": {
+            "lowerbond": 0.79466915,
+            "upperbond": 0.79466915
+        },
+        "closet rod": {
+            "lowerbond": 0.018311321703803007,
+            "upperbond": 0.7923615516295305
+        },
+        "desk lamp": {
+            "lowerbond": 0.13222456,
+            "upperbond": 0.365525
+        },
+        "rail": {
+            "lowerbond": 0.009670462824120651,
+            "upperbond": 0.4479667765671838
+        },
+        "hair dryer": {
+            "lowerbond": 0.07298689981402062,
+            "upperbond": 0.17599397961455085
+        },
+        "boiler": {
+            "lowerbond": 0.5978379,
+            "upperbond": 0.7543731
+        },
+        "statue": {
+            "lowerbond": 0.44546032,
+            "upperbond": 0.50400686
+        },
+        "stair": {
+            "lowerbond": 1.5336344,
+            "upperbond": 1.5700895999999998
+        },
+        "boxes of paper": {
+            "lowerbond": 0.6624491,
+            "upperbond": 0.7091005
+        },
+        "washing machine": {
+            "lowerbond": 0.5953393059532588,
+            "upperbond": 2.199900905625689
+        },
+        "paper towel dispenser": {
+            "lowerbond": 0.19228822401153933,
+            "upperbond": 0.31497596160249575
+        },
+        "person": {
+            "lowerbond": 0.3714401250090721,
+            "upperbond": 0.8307757978480707
+        },
+        "bottle": {
+            "lowerbond": 0.0694163416411103,
+            "upperbond": 0.1598796303118309
+        },
+        "photo": {
+            "lowerbond": 0.15212974,
+            "upperbond": 0.15212974
+        },
+        "laptop": {
+            "lowerbond": 0.28212428587109023,
+            "upperbond": 0.4702943915648072
+        },
+        "desk": {
+            "lowerbond": 0.6298870573915163,
+            "upperbond": 1.7611253078983384
+        },
+        "laundry bag": {
+            "lowerbond": 0.4046619,
+            "upperbond": 0.4046619
+        },
+        "plastic storage bin": {
+            "lowerbond": 0.41308832,
+            "upperbond": 0.41308832
+        },
+        "bike pump": {
+            "lowerbond": 0.19126868,
+            "upperbond": 0.19126868
+        },
+        "cup": {
+            "lowerbond": 0.08618050061664811,
+            "upperbond": 0.1494652519038998
+        },
+        "paper bag": {
+            "lowerbond": 0.21116241979682,
+            "upperbond": 0.3412674172940891
+        },
+        "bench": {
+            "lowerbond": 0.5575145533897488,
+            "upperbond": 1.3371446749973481
+        },
+        "blackboard": {
+            "lowerbond": 0.3470994105985318,
+            "upperbond": 1.7690286717091608
+        },
+        "water heater": {
+            "lowerbond": 0.5646744,
+            "upperbond": 0.75423765
+        },
+        "board": {
+            "lowerbond": 0.1382035836997076,
+            "upperbond": 1.0172280756184742
+        },
+        "hat": {
+            "lowerbond": 0.17148231311183404,
+            "upperbond": 0.3538512713326104
+        },
+        "bin": {
+            "lowerbond": 0.33079336291284467,
+            "upperbond": 0.5814568042300126
+        },
+        "coffee maker": {
+            "lowerbond": 0.15228397925829484,
+            "upperbond": 0.36592243730420515
+        },
+        "guitar case": {
+            "lowerbond": 0.20667079617509898,
+            "upperbond": 0.3791459078249012
+        },
+        "radiator": {
+            "lowerbond": 0.13038405947447712,
+            "upperbond": 1.0006495205826658
+        },
+        "piano bench": {
+            "lowerbond": 0.25734142982595676,
+            "upperbond": 0.6659989631740433
+        },
+        "bathroom cabinet": {
+            "lowerbond": 0.47245133852216303,
+            "upperbond": 0.9644849834778372
+        },
+        "potted plant": {
+            "lowerbond": 0.3767758336982181,
+            "upperbond": 0.5892880629684486
+        },
+        "furniture": {
+            "lowerbond": 0.4904507840999464,
+            "upperbond": 0.7136055359000537
+        },
+        "quadcopter": {
+            "lowerbond": 0.39791912,
+            "upperbond": 0.39791912
+        },
+        "soap dish": {
+            "lowerbond": 0.06990164338629903,
+            "upperbond": 0.14311522971714924
+        },
+        "towel": {
+            "lowerbond": 0.08378526040433794,
+            "upperbond": 0.298161008196559
+        },
+        "kitchen island": {
+            "lowerbond": 0.8432718796039569,
+            "upperbond": 1.5006047723960432
+        },
+        "pillar": {
+            "lowerbond": 0.32593594407918536,
+            "upperbond": 0.6533219819208147
+        },
+        "toilet brush": {
+            "lowerbond": 0.08945071673863593,
+            "upperbond": 0.12872016726136404
+        },
+        "dresser": {
+            "lowerbond": 0.49021690595177064,
+            "upperbond": 0.8821155904768008
+        },
+        "toilet paper package": {
+            "lowerbond": 0.36717868,
+            "upperbond": 0.4118339999999999
+        },
+        "shower control valve": {
+            "lowerbond": 0.06260524553725293,
+            "upperbond": 0.06726517196274708
+        },
+        "doll": {
+            "lowerbond": 0.18301797,
+            "upperbond": 0.18301797
+        },
+        "case of water bottles": {
+            "lowerbond": 0.3572783266564495,
+            "upperbond": 0.4004748000102171
+        },
+        "sponge": {
+            "lowerbond": 0.13874447,
+            "upperbond": 0.13874447
+        },
+        "music stand": {
+            "lowerbond": 0.2542997325945766,
+            "upperbond": 0.44266385407208997
+        },
+        "mirror": {
+            "lowerbond": 0.0749833134152322,
+            "upperbond": 0.49882293034476777
+        },
+        "candle": {
+            "lowerbond": 0.16512871,
+            "upperbond": 0.16666079
+        },
+        "nerf gun": {
+            "lowerbond": 0.31425524,
+            "upperbond": 0.31425524
+        },
+        "food display": {
+            "lowerbond": 1.1141376000000003,
+            "upperbond": 1.1987312
+        },
+        "scale": {
+            "lowerbond": 0.306199584151984,
+            "upperbond": 0.4162598825146826
+        },
+        "trash cabinet": {
+            "lowerbond": 0.79870164,
+            "upperbond": 0.79870164
+        },
+        "tube": {
+            "lowerbond": 0.13436295760385739,
+            "upperbond": 0.3011470968961426
+        },
+        "kettle": {
+            "lowerbond": 0.13355231,
+            "upperbond": 0.13355231
+        },
+        "shower curtain rod": {
+            "lowerbond": 0.07999386988642235,
+            "upperbond": 0.3083255620024665
+        },
+        "microwave": {
+            "lowerbond": 0.23596124635076257,
+            "upperbond": 0.5017804042298826
+        },
+        "treadmill": {
+            "lowerbond": 1.7852968345620974,
+            "upperbond": 1.9310729654379029
+        },
+        "swiffer": {
+            "lowerbond": 0.14472362162036906,
+            "upperbond": 0.39035364237963094
+        },
+        "hose": {
+            "lowerbond": 0.60346794,
+            "upperbond": 0.60346794
+        },
+        "conditioner bottle": {
+            "lowerbond": 0.116938114,
+            "upperbond": 0.116938114
+        },
+        "shoe rack": {
+            "lowerbond": 0.3451856828287141,
+            "upperbond": 0.6262689238379526
+        },
+        "cd case": {
+            "lowerbond": 0.10771319028965759,
+            "upperbond": 0.18803764082145358
+        },
+        "rug": {
+            "lowerbond": 0.5746783290597574,
+            "upperbond": 1.846443190940243
+        },
+        "step": {
+            "lowerbond": -0.03368821856462079,
+            "upperbond": 3.993377928564621
+        },
+        "santa": {
+            "lowerbond": 0.19044828,
+            "upperbond": 0.19044828
+        },
+        "column": {
+            "lowerbond": 0.2962656686785653,
+            "upperbond": 0.6775223482445116
+        },
+        "instrument case": {
+            "lowerbond": 0.25451186245879626,
+            "upperbond": 0.33923385754120366
+        },
+        "whiteboard": {
+            "lowerbond": 0.147593651945509,
+            "upperbond": 1.4786220733878244
+        },
+        "bulletin board": {
+            "lowerbond": 0.13728675444835292,
+            "upperbond": 0.986304164551647
+        },
+        "magazine": {
+            "lowerbond": 0.34779262999999994,
+            "upperbond": 0.79509974
+        },
+        "paper tray": {
+            "lowerbond": 0.2786335,
+            "upperbond": 0.2786335
+        },
+        "stand": {
+            "lowerbond": -0.06047275372520611,
+            "upperbond": 1.403512943725206
+        },
+        "humidifier": {
+            "lowerbond": 0.35153437,
+            "upperbond": 0.35153437
+        },
+        "block": {
+            "lowerbond": 0.21358026865042398,
+            "upperbond": 0.24844775934957605
+        },
+        "heater": {
+            "lowerbond": 0.21832908925019076,
+            "upperbond": 0.7133855640831427
+        },
+        "duffel bag": {
+            "lowerbond": 0.38335335,
+            "upperbond": 0.49049854
+        },
+        "thermostat": {
+            "lowerbond": 0.03878435980422075,
+            "upperbond": 0.061024811695779266
+        },
+        "range hood": {
+            "lowerbond": 0.21366540431491374,
+            "upperbond": 0.5723925975898482
+        },
+        "shower floor": {
+            "lowerbond": 0.8422754640820138,
+            "upperbond": 1.1725797803624307
+        },
+        "sock": {
+            "lowerbond": 0.18317318,
+            "upperbond": 0.18317318
+        },
+        "camera": {
+            "lowerbond": 0.18070555,
+            "upperbond": 0.18070555
+        },
+        "bathroom counter": {
+            "lowerbond": 0.6791807168300857,
+            "upperbond": 1.1585159591699146
+        },
+        "paper cutter": {
+            "lowerbond": 0.3867052636264219,
+            "upperbond": 0.6688559377069117
+        },
+        "coffee kettle": {
+            "lowerbond": 0.12204856746828423,
+            "upperbond": 0.17139378053171578
+        },
+        "poster": {
+            "lowerbond": 0.13055361836901366,
+            "upperbond": 0.6252265816309863
+        },
+        "kitchen counter": {
+            "lowerbond": 0.6375972039001698,
+            "upperbond": 2.1430314170229074
+        },
+        "pitcher": {
+            "lowerbond": 0.13305378,
+            "upperbond": 0.14528036
+        },
+        "tripod": {
+            "lowerbond": 0.3062359687462208,
+            "upperbond": 0.38642516458711257
+        },
+        "cabinet": {
+            "lowerbond": 0.2721857812934726,
+            "upperbond": 1.1330196840960012
+        },
+        "fire alarm": {
+            "lowerbond": 0.0488519827727571,
+            "upperbond": 0.1206753562272429
+        },
+        "bookshelf": {
+            "lowerbond": 0.23743567041103575,
+            "upperbond": 1.508972557310483
+        },
+        "hoverboard": {
+            "lowerbond": 0.34516597,
+            "upperbond": 0.34516597
+        },
+        "smoke detector": {
+            "lowerbond": 0.07042027695774293,
+            "upperbond": 0.15838431637559042
+        },
+        "dining table": {
+            "lowerbond": 0.8525708461711508,
+            "upperbond": 1.429103753828849
+        },
+        "dollhouse": {
+            "lowerbond": 0.44112682,
+            "upperbond": 0.44112682
+        },
+        "storage box": {
+            "lowerbond": 0.59310937,
+            "upperbond": 0.59310937
+        },
+        "hatrack": {
+            "lowerbond": 0.44284916,
+            "upperbond": 0.44284916
+        },
+        "rack stand": {
+            "lowerbond": 0.4319229874836436,
+            "upperbond": 0.45632148584968973
+        },
+        "display": {
+            "lowerbond": 0.63006353,
+            "upperbond": 0.63006353
+        },
+        "book rack": {
+            "lowerbond": 0.42772998708767385,
+            "upperbond": 0.5175716262456594
+        },
+        "scanner": {
+            "lowerbond": 0.3000729,
+            "upperbond": 0.7885518
+        },
+        "projector screen": {
+            "lowerbond": 0.42487223190534096,
+            "upperbond": 1.1609295314279922
+        },
+        "toothbrush": {
+            "lowerbond": 0.03126700485683288,
+            "upperbond": 0.06556836964316712
+        },
+        "bathrobe": {
+            "lowerbond": 0.17717786470140226,
+            "upperbond": 0.23267332863193105
+        },
+        "electric panel": {
+            "lowerbond": 0.35516632,
+            "upperbond": 0.35516632
+        },
+        "coat rack": {
+            "lowerbond": 0.18824846346321955,
+            "upperbond": 0.41846420853678046
+        },
+        "ikea bag": {
+            "lowerbond": 0.5732238,
+            "upperbond": 0.5732238
+        },
+        "floor": {
+            "lowerbond": 2.404525946149417,
+            "upperbond": 5.834941767448394
+        },
+        "shower head": {
+            "lowerbond": 0.06947254279523113,
+            "upperbond": 0.1585915555381022
+        },
+        "book": {
+            "lowerbond": 0.19888358623829885,
+            "upperbond": 0.5428930201631014
+        },
+        "ledge": {
+            "lowerbond": 0.042807007005764786,
+            "upperbond": 1.0810508506494076
+        },
+        "closet doorframe": {
+            "lowerbond": 0.17079926,
+            "upperbond": 0.17079926
+        },
+        "display case": {
+            "lowerbond": 0.7259576970995814,
+            "upperbond": 0.9447801962337521
+        },
+        "bunk bed": {
+            "lowerbond": 1.577462,
+            "upperbond": 1.577462
+        },
+        "picture": {
+            "lowerbond": 0.03691885189641497,
+            "upperbond": 0.39955553215790607
+        },
+        "tissue box": {
+            "lowerbond": 0.14711288371264086,
+            "upperbond": 0.2725554116719745
+        },
+        "tupperware": {
+            "lowerbond": 0.16548176623240413,
+            "upperbond": 0.25765613376759583
+        },
+        "notepad": {
+            "lowerbond": 0.34256792,
+            "upperbond": 0.34256792
+        },
+        "podium": {
+            "lowerbond": 0.49015617,
+            "upperbond": 0.9581326
+        },
+        "hair brush": {
+            "lowerbond": 0.07230829999999999,
+            "upperbond": 0.08954477
+        },
+        "metronome": {
+            "lowerbond": 0.12297176999999998,
+            "upperbond": 0.1892705
+        },
+        "structure": {
+            "lowerbond": 0.4170783344063995,
+            "upperbond": 1.5885633615936006
+        },
+        "shredder": {
+            "lowerbond": 0.35499692,
+            "upperbond": 0.4696986
+        },
+        "remote": {
+            "lowerbond": 0.109322246977323,
+            "upperbond": 0.34255891802267696
+        },
+        "salt": {
+            "lowerbond": 0.090723395,
+            "upperbond": 0.090723395
+        },
+        "flowerpot": {
+            "lowerbond": 0.2558912261173999,
+            "upperbond": 0.4495438138826001
+        },
+        "toilet flush button": {
+            "lowerbond": 0.18542266,
+            "upperbond": 0.18542266
+        },
+        "jacket": {
+            "lowerbond": 0.26221852826780356,
+            "upperbond": 0.4234200158831398
+        },
+        "wood beam": {
+            "lowerbond": 0.4604287,
+            "upperbond": 0.4604287
+        },
+        "changing station": {
+            "lowerbond": 0.44441015,
+            "upperbond": 0.44441015
+        },
+        "alarm clock": {
+            "lowerbond": 0.1319595892088726,
+            "upperbond": 0.1863508457911274
+        }
+    }
+}

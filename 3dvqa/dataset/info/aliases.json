@@ -1,0 +1,348 @@
+{
+    "object": [
+        "object",
+        "thing"
+    ],
+    "picture": [
+        "picture",
+        "painting",
+        "canvas",
+        "artwork",
+        "drawing"
+    ],
+    "box": [
+        "box",
+        "carton"
+    ],
+    "doorframe": [
+        "doorframe",
+        "doorcase"
+    ],
+    "cabinet": [
+        "cabinet",
+        "cupboard"
+    ],
+    "monitor": [
+        "monitor",
+        "display",
+        "screen"
+    ],
+    "shelf": [
+        "shelf",
+        "rack"
+    ],
+    "couch": [
+        "couch",
+        "sofa",
+        "settee",
+        "divan",
+        "futon",
+        "davenport"
+    ],
+    "sink": [
+        "sink",
+        "washbowl"
+    ],
+    "backpack": [
+        "backpack",
+        "rucksack",
+        "knapsack",
+        "sack",
+        "satchel"
+    ],
+    "lamp": [
+        "light",
+        "lamp"
+    ],
+    "bookshelf": [
+        "bookshelf",
+        "bookcase"
+    ],
+    "armchair": [
+        "sofa chair",
+        "armchair"
+    ],
+    "radiator": [
+        "radiator",
+        "heater",
+        "convector"
+    ],
+    "curtain": [
+        "curtain",
+        "blind"
+    ],
+    "kitchen cabinet": [
+        "kitchen cabinet",
+        "kitchen cupboard"
+    ],
+    "kitchen cabinets": [
+        "kitchen cabinets",
+        "kitchen cupboards"
+    ],
+    "toilet paper": [
+        "toilet paper",
+        "toilet tissue"
+    ],
+    "shoes": [
+        "shoes",
+        "footwear",
+        "footgear"
+    ],
+    "keyboard": [
+        "keyboard",
+        "keypad"
+    ],
+    "clothes": [
+        "clothing",
+        "clothes",
+        "garment"
+    ],
+    "tv": [
+        "tv",
+        "television",
+        "telly"
+    ],
+    "trash can": [
+        "trash bin",
+        "dustbin",
+        "garbage can",
+        "waste bin",
+        "trash can",
+        "recycling bin"
+    ],
+    "recycling bin": [
+        "trash bin",
+        "dustbin",
+        "garbage can",
+        "waste bin",
+        "trash can",
+        "recycling bin"
+    ],
+    "nightstand": [
+        "nightstand",
+        "bedside table",
+        "night table",
+        "bed table",
+        "side table",
+        "bedside"
+    ],
+    "file cabinet": [
+        "file cabinet",
+        "filing cabinet",
+        "vertical file"
+    ],
+    "dresser": [
+        "dresser",
+        "commode",
+        "drawer",
+        "drawers"
+    ],
+    "computer tower": [
+        "computer tower",
+        "system block",
+        "system unit"
+    ],
+    "refrigerator": [
+        "refrigerator",
+        "fridge"
+    ],
+    "telephone": [
+        "telephone",
+        "phone"
+    ],
+    "cup": [
+        "cup",
+        "mug",
+        "teacup"
+    ],
+    "clothing": [
+        "clothing",
+        "clothes",
+        "garment"
+    ],
+    "end table": [
+        "end table",
+        "side table"
+    ],
+    "microwave": [
+        "microwave",
+        "microwave oven",
+        "microwave stove"
+    ],
+    "bathtub": [
+        "bathtub",
+        "bath",
+        "tub"
+    ],
+    "sofa chair": [
+        "sofa chair",
+        "armchair"
+    ],
+    "jacket": [
+        "jacket",
+        "coat",
+        "overcoat"
+    ],
+    "ottoman": [
+        "ottoman",
+        "footstool",
+        "footrest"
+    ],
+    "board": [
+        "blackboard",
+        "board",
+        "chalkboard"
+    ],
+    "light": [
+        "light",
+        "lamp"
+    ],
+    "cabinets": [
+        "cabinets",
+        "cupboards"
+    ],
+    "stove": [
+        "stove",
+        "oven",
+        "furnace"
+    ],
+    "suitcase": [
+        "suitcase",
+        "luggage",
+        "valise",
+        "baggage"
+    ],
+    "copier": [
+        "copier",
+        "copying machine",
+        "xerox",
+        "photocopier"
+    ],
+    "seat": [
+        "seat",
+        "seating"
+    ],
+    "mini fridge": [
+        "mini fridge",
+        "mini refrigerator"
+    ],
+    "bathroom stall": [
+        "bathroom stall",
+        "shower cabin",
+        "shower cubicle",
+        "shower stall",
+        "shower enclosure",
+        "shower booth"
+    ],
+    "coffee maker": [
+        "coffee maker",
+        "coffee machine",
+        "percolator",
+        "coffee pot"
+    ],
+    "bench": [
+        "bench",
+        "pew"
+    ],
+    "fan": [
+        "fan",
+        "air blower",
+        "ventilator",
+        "blower",
+        "vent",
+        "air fan"
+    ],
+    "ledge": [
+        "ledge",
+        "cornice",
+        "eaves"
+    ],
+    "wardrobe closet": [
+        "wardrobe closet",
+        "closet",
+        "wardrobe"
+    ],
+    "basket": [
+        "basket",
+        "hamper",
+        "bin"
+    ],
+    "light switch": [
+        "light switch",
+        "dimmer",
+        "switch"
+    ],
+    "bulletin board": [
+        "bulletin board",
+        "notice board",
+        "message board"
+    ],
+    "blackboard": [
+        "blackboard",
+        "board",
+        "chalkboard"
+    ],
+    "blanket": [
+        "blanket",
+        "duvet",
+        "comforter",
+        "quilt"
+    ],
+    "container": [
+        "container",
+        "repository",
+        "case",
+        "box"
+    ],
+    "bucket": [
+        "bucket",
+        "pail"
+    ],
+    "tv stand": [
+        "tv stand",
+        "television stand"
+    ],
+    "windowsill": [
+        "windowsill",
+        "window ledge",
+        "sill"
+    ],
+    "rail": [
+        "rail",
+        "railing"
+    ],
+    "trash bin": [
+        "trash bin",
+        "garbage can",
+        "waste bin",
+        "trash can",
+        "recycling bin",
+        "dustbin"
+    ],
+    "ceiling light": [
+        "ceiling light",
+        "dome light",
+        "ceiling lamp",
+        "ceiling luminaire"
+    ],
+    "range hood": [
+        "range hood",
+        "exhaust hood",
+        "cooker hood",
+        "extractor hood",
+        "hood",
+        "exhaust"
+    ],
+    "laundry hamper": [
+        "laundry hamper",
+        "clothes hamper",
+        "laundry basket",
+        "laundry bin",
+        "dirty clothes hamper",
+        "lundry bucket"
+    ],
+    "person": [
+        "person",
+        "human"
+    ]
+}

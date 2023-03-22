@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="3DVQA: Visual Question Answering for 3D Environments">
+    <meta name="author" content="Yasaman Etesam,
+                                 Leon Kochiev,
+                                 Angel X. Chang">
+
+    <title>3DVQA: Visual Question Answering for 3D Environments</title>
+    <!-- Bootstrap core CSS -->
+    <!--link href="bootstrap.min.css" rel="stylesheet"-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="offcanvas.css" rel="stylesheet">
+
+    <script type="module"
+            src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
+    </script>
+</head>
+
+<body>
+<div class="jumbotron jumbotron-fluid">
+    <div class="container"></div>
+    <h2>3DVQA: Visual Question Answering for 3D Environments</h2>
+    <!-- <h2>CRV 2022</h2> -->
+    <hr>
+    <p class="authors">
+        <a href="https://www.linkedin.com/in/yasaman-etesam/"> Yasaman Etesam</a>,
+        <a href="https://www.linkedin.com/in/nullkatar/"> Leon Kochiev</a>, 
+        <a href="https://angelxuanchang.github.io/"> Angel X. Chang</a>
+    </p>
+    <div class="btn-group" role="group" aria-label="Top menu">
+        <a class="btn btn-primary" href="https://github.com/3dlg-hcvc/3DVQA">Code</a>
+        <a class="btn btn-primary" href="https://ieeexplore.ieee.org/document/9866910">Paper</a> 
+    </div>
+</div>
+
+<div class="container">
+    <div class="section">
+	    <h2>Overview</h2>
+		<hr>
+        <div class="row align-items-center">
+            <div class="col justify-content-center text-center">
+                <img src="figs/input_output.png" style="width:100%; margin-right:-20px; margin-top:-10px;">
+                </video>
+            </div>
+        </div>
+        <hr>
+        <p>
+            Visual Question Answering (VQA) is a widely studied problem in computer vision and natural language processing. However, current approaches to VQA have been investigated primarily in the 2D image domain. We study VQA in the 3D domain, with our input being point clouds of realworld 3D scenes, instead of 2D images. We believe that this 3D data modality provide richer spatial relation information that is of interest in the VQA task. In this paper, we introduce the 3DVQA-ScanNet dataset, the first VQA dataset in 3D, and we investigate the performance of a spectrum of baseline approaches on the 3D VQA task.
+        </p>
+    </div>
+
+    <div class="section">
+        <div class="row align-items-center">
+            <div class="col justify-content-center text-center">
+					<img src="figs/dataset_statistics.png" style="width:75%; margin-right:-20px; margin-top:-10px;">
+            </div>
+        </div>
+        <hr>
+        <p>
+            Dataset statistics for our 3DVQA dataset.
+        </p>
+
+        <div class="row align-items-center">
+            <div class="col justify-content-center text-center">
+					<img src="figs/network_architecture.png" style="width:75%; margin-right:-20px; margin-top:-10px;">
+            </div>
+        </div>
+        <hr>
+        <p>
+            Illustration of the network structure for our VoteNet + LSTM.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Paper</h2>
+        <hr>
+        <div>
+            <div class="list-group">
+                <a href="https://ieeexplore.ieee.org/document/9866910" 
+                   class="list-group-item">
+                    <img src="figs/paper_preview.png" style="width:100%; margin-right:-20px; margin-top:-10px;">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Download</h2>
+        <hr>
+        <div>
+            <div class="download files">
+                <p>Below one can download the full and sampled versions of 3DVQA dataset  </p>
+                coming soon!
+                <!-- <a href="https://github.com/3dlg-hcvc/OPD">OPD Project</a> :&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://aspis.cmpt.sfu.ca/projects/motionnet/opd/dataset/OPD/dataset.tar.gz">OPD Dataset</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://aspis.cmpt.sfu.ca/projects/motionnet/opd/models/OPD/models.tar.gz">OPD Pre-trained Models</a> 
+                <br/>
+                <a href="https://github.com/3dlg-hcvc/OPDPN">OPDPN Baseline Project</a> :&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://aspis.cmpt.sfu.ca/projects/motionnet/opd/dataset/OPDPN/dataset.tar.gz">OPDPN Dataset</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://aspis.cmpt.sfu.ca/projects/motionnet/opd/models/OPDPN/models.tar.gz">OPDPN Pre-trained Models</a> 
+                <br/>
+                <a href="https://github.com/3dlg-hcvc/ANCSH-pytorch">ANCSH Baseline Project</a> :&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://aspis.cmpt.sfu.ca/projects/motionnet/opd/dataset/ANCSH/dataset.tar.gz">ANCSH Dataset</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://aspis.cmpt.sfu.ca/projects/motionnet/opd/models/ANCSH/models.tar.gz">ANCSH Pre-trained Models</a>  -->
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="section">
+        <h2>Bibtex</h2>
+        <hr>
+        <div class="bibtexsection">
+         @inproceedings{etesam20223dvqa,
+            author = {Etesam, Yasaman and Kochiev, Leon and Chang, Angel X.},
+            title = {3DVQA: Visual Question Answering for 3D Environments},
+            booktitle = {Conference on Robots and Vision (CRV)},
+            year = 2022
+         }            		
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Acknowledgements</h2>
+        <hr>
+        <div class="acknowledgements">
+            We thank <a href="https://weiliansong.github.io/">Weilian Song</a> , Ekaterina Fedluyk and Gleb Kumichev for fruitful discussions. This work was supported  by the Canada CIFAR AI Chair program and an NSERC Discovery Grant. This research was enabled in part by support provided by <a href="https://www.westgrid.ca/">WestGrid</a> and  <a href="www.computecanada.ca">Compute Canada</a>
+        </div>
+    </div>
+
+    <hr>
+
+    <footer>
+        <p>Send feedback and questions to <a href="mailto: yetesam@sfu.ca">Yasaman Etesam</a>. Website template from <a href="https://www.vincentsitzmann.com/metasdf/">MetaSDF</a>. </p>
+    </footer>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+
+</body>
+</html>
