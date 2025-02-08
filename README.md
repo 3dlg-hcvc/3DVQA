@@ -6,7 +6,7 @@ This repository contains code for generating 3DVQA dataset and set of baseline m
 
 <p align="center"><img src="docs/figs/input_output.png" width="100%"></p>
 
-[Paper]() [Website](https://3dlg-hcvc.github.io/3DVQA/)
+[Paper](https://ieeexplore.ieee.org/document/9866910) [Website](https://3dlg-hcvc.github.io/3DVQA/) [Data](#get-the-data)
 
 
 ## Setup
