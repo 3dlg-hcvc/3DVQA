@@ -108,7 +108,7 @@ Remember to change these options in config.py:
 
 ## Acknowledgement
 
-This repo uses [votenet](https://github.com/facebookresearch/votenet) and [pointnet++](https://github.com/erikwijmans/Pointnet2_PyTorch)(pytorch version )codes.
+This repo uses [votenet](https://github.com/facebookresearch/votenet) and [pointnet++ pytorch](https://github.com/erikwijmans/Pointnet2_PyTorch) code.
 
 ## Citation
 
